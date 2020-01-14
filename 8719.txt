@@ -198,7 +198,7 @@ BBC,vjms://58.215.133.185:8500:3502/live/cid=418#vjms://121.14.222.75:8500:3502/
 CBSN,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 CBS,http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-CGTN ,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN ,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2001656801.m3u8#http://live.cgtn.com/1000/prog_index.m3u8
 Discovery(知識頻道),P2p://190.2.146.92:18912/5bee4e9b0004056f19ca944341e3368d.ts
 
 港台其他,#genre#
@@ -247,8 +247,8 @@ ELTA综合,mitv://198.255.74.87:9906/5dc08f18000349b501b7e817e60191a8.ts
 
 体育类,#genre#
 五星体育,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/1.m3u8#http://111.48.34.209/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8#http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
-CCTV 5,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
-CCTV 5+,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+CCTV-5体育,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8#http://39.135.34.146:18890/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive&contentid=1000000001000004794&livemode=1&stbid=005203ff000360100001001a34c0cd33&usertoken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000004794&owchid=ystenlive&owsid=1106497909461092492&authinfo=yolxjswzzffv3fvb8mhhuelkgjklbu5h0jb3qahfse7aoraovdzdwbfnj0sxjearfiatofcd93c7ach3puyar1v%2bioi39cfseenlxp5u9ufadu6bcdl7v7ctgkugzw1d
+CCTV 5+,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8#http://39.135.34.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
 劲爆体育,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000116.m3u8
 ELTA體育3 ,P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 FOXSPORT1,rtmp://59.124.75.137/sat/tv731#rtmp://59.124.75.137/sat/tv731
