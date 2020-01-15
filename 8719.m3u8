@@ -1,6 +1,7 @@
 ﻿#EXTM3U
 #EXTINF:-1 ,凤凰资讯
-http://cn7.7639616.com/hls/20191211/13717fa114b4d5acd5dcef6b80680c63/1576071284/index.m3u8
+
+http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 ,凤凰卫视
 http://cn7.7639616.com/hls/20191210/b740ab52eddddd94362c6f115295147c/1575981959/index.m3u8
 #EXTINF:-1 ,东森新闻
