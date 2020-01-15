@@ -1,8 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 ,凤凰资讯
-http://liveali.ifeng.com/live/FHZX.flv
+http://cn7.7639616.com/hls/20191211/13717fa114b4d5acd5dcef6b80680c63/1576071284/index.m3u8
 #EXTINF:-1 ,凤凰卫视
-http://liveali.ifeng.com/live/FHZW.flv
+http://cn7.7639616.com/hls/20191210/b740ab52eddddd94362c6f115295147c/1575981959/index.m3u8
 #EXTINF:-1 ,东森新闻
 http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 ,三立新闻
@@ -23,8 +23,6 @@ http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 ,动物星球
 http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-#EXTINF:-1 ,BBC Earth
-http://fang.fhzyy.com/live/260087c6636049bbbc187027547c905d.flv
 #EXTINF:-1 ,求索科学
 http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
 #EXTINF:-1 ,求索记录
