@@ -25,6 +25,8 @@ http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 ,动物星球
 http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+#EXTINF:-1 ,BBC EARTH
+http://fang.fhzyy.com/live/260087c6636049bbbc187027547c905d.flv
 #EXTINF:-1 ,求索科学
 http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
 #EXTINF:-1 ,求索记录
@@ -143,8 +145,3 @@ http://player.ioioz.com/18/tv.php?tv=shydbst&id=qjs
 http://player.ioioz.com/18/tv.php?tv=shydbst&id=fztd
 #EXTINF:-1 ,五星体育
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/1.m3u8
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-#EXTINF:-1 ,
-
