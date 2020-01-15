@@ -25,14 +25,10 @@ http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 ,动物星球
 http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-#EXTINF:-1 ,BBC EARTH
-http://fang.fhzyy.com/live/260087c6636049bbbc187027547c905d.flv
 #EXTINF:-1 ,求索科学
 http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
 #EXTINF:-1 ,求索记录
 http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
-#EXTINF:-1 ,NHK华语世界
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 ,FOX动作电影
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 ,好莱坞电影
@@ -125,6 +121,8 @@ http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000298001.m3u8
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1 ,CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1 ,NHK WORLD
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 ,阿里郎
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 ,CGTN
