@@ -1,0 +1,106 @@
+﻿#EXTM3U
+
+#EXTINF:-1,凤凰资讯001
+rtmp://58.200.131.2:1935/livetv/fhzx 
+#EXTINF:-1,凤凰资讯002
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1,凤凰资讯稳定版
+http://192.154.103.74:8080/ZZ_fenghuangzixun/ZZ_fenghuangzixun.m3u8
+#EXTINF:-1,凤凰卫视稳定版
+http://192.154.98.130:8080/ZZ_fenghuangzhongwen/ZZ_fenghuangzhongwen.m3u8
+#EXTINF:-1,凤凰卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
+#EXTINF:-1,TVB 翡翠台
+http://cloud-play.hhalloy.com/live/b3a93cbbd1908e81783879747bb3090a.flv
+#EXTINF:-1,|CA| DISCOVERY CANADA
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542759.m3u8
+#EXTINF:-1,|CA| DISCOVERY SCIENCE CANADA
+http://tv.sigma-iptv.com:7000/live/45905/13543107/575542760.m3u8
+#EXTINF:-1 group-title="常用",Discovery Asia
+http://cloud-play.hhalloy.com/live/f325e0ce8ddf55c2df916b6f2bc0e07c.flv
+#EXTINF:-1 group-title="常用",Discovery[HD]
+http://cloud-play.hhalloy.com/live/ef2748398207873cae12b151ae78b0af.flv
+#EXTINF:-1 group-title="常用",Discovery科学[HD]
+http://cloud-play.hhalloy.com/live/f82bcb85f1a67e5b4754f7be0661dc72.flv
+#EXTINF:-1 group-title="常用",国家地理悠人
+http://cloud-play.hhalloy.com/live/0293b493509468a0a896adea05ad5e30.flv
+#EXTINF:-1 group-title="常用",国家地理野生
+http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
+#EXTINF:-1 group-title="常用",国家地理
+http://192.200.97.98:8080/ZZ_hbo/ZZ_hbo.m3u8
+#EXTINF:-1 group-title="常用",国家地理HD
+vjms://23.237.33.155:8500:3502/live/cid=115
+#EXTINF:-1 group-title="台湾",LIFE TIME
+http://cloud-play.hhalloy.com/live/d8ab211a4f23fe8e143757d13ade9b32.flv
+#EXTINF:-1,group-title="新闻",CBS NEWS 500K
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/24344.m3u8
+#EXTINF:-1,US: CBSN News 5M
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/9477.m3u8
+#EXTINF:-1,US: WGN NEWS CHICAGO 2.5M
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/13612.m3u8
+#EXTINF:-1,group-title="路易斯安那州",WBRZ-TV 1.5M
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/18875.m3u8
+#EXTINF:-1,US: Z Living美国瑜伽2.5M
+http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/36445.m3u8
+#EXTINF:-1 group-title="常用",CNN NEWS
+http://cloud-play.hhalloy.com/live/5ff1924613169c0b7148e528d0cfe0fd.flv
+#EXTINF:-1 group-title="常用",SKY NEWS
+http://cloud-play.hhalloy.com/live/64a4807c0cf482cffe922d7b8f091303.flv
+#EXTINF:-1 group-title="常用",NHK WORLD
+http://cloud-play.hhalloy.com/live/1b06c6242b2fd17ab11a21d70abb2e67.flv
+#EXTINF:-1 group-title="常用",BBC World News
+http://cloud-play.hhalloy.com/live/6d735caeaf70f8901aa00f86aefc4dde.flv
+#EXTINF:-1 group-title="常用",FOX News
+http://cloud-play.hhalloy.com/live/b78a7c4f460285596b53bfa802eca8e8.flv
+#EXTINF:-1 group-title="常用",新加坡亚洲新闻台
+http://cloud-play.hhalloy.com/live/1aab6cf57296bdefc6f4bea94702782a.flv
+#EXTINF:-1 group-title="常用",东森新闻[HD]
+
+http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 group-title="常用",东森财经新闻[HD]
+http://cloud-play.hhalloy.com/live/10e21c98ff74745141a386d91da24c56.flv
+#EXTINF:-1 group-title="常用",非凡新闻[HD]
+http://cloud-play.hhalloy.com/live/408a2834f703f2162d0d5b5789344c39.flv
+#EXTINF:-1 group-title="常用",中天新闻[HD]
+http://cloud-play.hhalloy.com/live/e1a397539e76f45bbbf39d1467024aa3.flv
+#EXTINF:-1 group-title="常用",寰宇新闻2台
+http://cloud-play.hhalloy.com/live/0d192b1fb482857fb4694a12c2718302.flv
+#EXTINF:-1 group-title="卫视台",东方卫视
+http://39.135.36.143:18890/000000001000/1000000001000030202/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000030202&owchid=ystenlive&owsid=1106497909461236159&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR5IXgk%2b6a%2bY1Viivj30IkCl065X8GSWgqnbGOJH69GYNl9jXWqt3b3Vkm63dGSY%2b5
+#EXTINF:-1 group-title="常用",CCTV1
+http://39.135.36.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
+#EXTINF:-1 group-title="常用",CCTV2
+http://39.135.36.150:18890/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012442&owchid=ystenlive&owsid=1106497909461775063&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRknGE%2fO0VC9Co37x%2f7gMjaWYjatUfTQlAa15Ksg%2fXe8sQo%2fi5btdpzeV%2b1v4UwuHf
+#EXTINF:-1 group-title="常用",CCTV4
+http://39.135.36.150:18890/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000031664&owchid=ystenlive&owsid=1106497909461056460&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhSaNRr4LzI3YsXQPQcGzS6VSIZXSs858JtCAdvl%2fg%2f2u5lawXOBSX%2fqESSB5FmTXS
+#EXTINF:-1 group-title="常用",CCTV13
+http://39.135.36.142:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=1106497909461172796&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjht3HVAbnHsmZNUh9hfpXto6CyOW1rkA%2biXZhxwyg0QWyFIN7oKbswdBdf7iWy8vlE
+#EXTINF:-1 group-title="常用",BBC Lifestyle
+http://cloud-play.hhalloy.com/live/5e80f4a9e17c991df381030c65856687.flv
+#EXTINF:-1 group-title="常用",BBC earth
+http://cloud-play.hhalloy.com/live/f7146ac8e65cb75112431f87ddcea22e.flv
+#EXTINF:-1 group-title="台湾",DWTV
+http://cloud-play.hhalloy.com/live/a4aa25e01a432729323f4d0778605887.flv
+#EXTINF:-1 group-title="常用",FOX HD
+http://cloud-play.hhalloy.com/live/c2c91afe09bad325929734624c19d07b.flv
+#EXTINF:-1 group-title="台湾",BLUE ANT EXTREME
+http://cloud-play.hhalloy.com/live/7b3b2e1d0006091415635226a2ac5d86.flv
+#EXTINF:-1 group-title="台湾",BLUE ANT ENTERTAINMET
+http://cloud-play.hhalloy.com/live/41005bf306743766c5affb055bc5c164.flv
+#EXTINF:-1 group-title="常用",历史频道
+http://cloud-play.hhalloy.com/live/998ce23199bda76900024601f6dd859d.flv
+#EXTINF:-1 group-title="常用",历史频道2
+http://cloud-play.hhalloy.com/live/b4d47c14a4665a2ef43d657ea6384c27.flv
+#EXTINF:-1 group-title="常用",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="常用",年代MUCH[HD]
+http://cloud-play.hhalloy.com/live/3d20cf4de65aadb4d2b2e30ad3974750.flv
+#EXTINF:-1 group-title="常用",FOX HD
+http://cloud-play.hhalloy.com/live/c2c91afe09bad325929734624c19d07b.flv
+#EXTINF:-1 group-title="常用",HITS[HD]
+http://cloud-play.hhalloy.com/live/e6d6d3927102ce6e0e99187b52946497.flv
+#EXTINF:-1,Al Jazeera 翻
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+#EXTINF:-1,Russia Today 翻
+#EXTINF:-1 group-title="地方台",第一财经
+http://w1.livecache.yicai.com/hls/live/CBN_sd/live.m3u8
