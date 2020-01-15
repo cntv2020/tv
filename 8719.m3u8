@@ -1,0 +1,150 @@
+﻿#EXTM3U
+#EXTINF:-1 ,凤凰资讯
+http://liveali.ifeng.com/live/FHZX.flv
+#EXTINF:-1 ,凤凰卫视
+http://liveali.ifeng.com/live/FHZW.flv
+#EXTINF:-1 ,东森新闻
+http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 ,三立新闻
+http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 ,TVBS新闻
+http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:-1 ,年代新闻
+http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+#EXTINF:-1 ,香港有线新闻
+https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+#EXTINF:-1 ,香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,中视
+http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 ,华视
+http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1 ,国家地理
+http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+#EXTINF:-1 ,动物星球
+http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+#EXTINF:-1 ,BBC Earth
+http://fang.fhzyy.com/live/260087c6636049bbbc187027547c905d.flv
+#EXTINF:-1 ,求索科学
+http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
+#EXTINF:-1 ,求索记录
+http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+#EXTINF:-1 ,NHK华语世界
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+#EXTINF:-1 ,FOX动作电影
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 ,好莱坞电影
+http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 ,东森洋片
+http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+#EXTINF:-1 ,超高清 4K
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+#EXTINF:-1 ,CCTV 1
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+#EXTINF:-1 ,CCTV 2
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+#EXTINF:-1 ,CCTV 3
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+#EXTINF:-1 ,CCTV 4
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+#EXTINF:-1 ,CCTV 5
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
+#EXTINF:-1 ,CCTV 5+
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+#EXTINF:-1 ,CCTV 6
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8
+#EXTINF:-1 ,CCTV 7
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+#EXTINF:-1 ,CCTV 8
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+#EXTINF:-1 ,CCTV 9
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+#EXTINF:-1 ,CCTV 10
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+#EXTINF:-1 ,CCTV 11
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+#EXTINF:-1 ,CCTV 12
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+#EXTINF:-1 ,CCTV 13
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+#EXTINF:-1 ,CCTV 14
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+#EXTINF:-1 ,CCTV 15
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+#EXTINF:-1 ,CCTV 17
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+#EXTINF:-1 ,CGTN
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2001656801.m3u8
+#EXTINF:-1 ,东方卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
+#EXTINF:-1 ,广东卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+#EXTINF:-1 ,深圳卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+#EXTINF:-1 ,江苏卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+#EXTINF:-1 ,浙江卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+#EXTINF:-1 ,江苏卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+#EXTINF:-1 ,深圳卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000292201.m3u8
+#EXTINF:-1 ,北京卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000272101.m3u8
+#EXTINF:-1 ,海南卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000291501.m3u8
+#EXTINF:-1 ,山东卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000294801.m3u8
+#EXTINF:-1 ,江西卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000294101.m3u8
+#EXTINF:-1 ,湖北卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000294501.m3u8
+#EXTINF:-1 ,河南卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000296101.m3u8
+#EXTINF:-1 ,河北卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000293401.m3u8
+#EXTINF:-1 ,贵州卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000293301.m3u8
+#EXTINF:-1 ,东南卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000292501.m3u8
+#EXTINF:-1 ,广西卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000294201.m3u8
+#EXTINF:-1 ,四川卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000295001.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000281301.m3u8
+#EXTINF:-1 ,重庆卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000297801.m3u8
+#EXTINF:-1 ,安徽卫视
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000298001.m3u8
+#EXTINF:-1 ,CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 ,CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1 ,阿里郎
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 ,CGTN
+http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2001656801.m3u8#http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 ,上海新闻
+http://hw-stream.kksmg.com/live/stv5ed4462f.m3u8?auth_key=1574742865-12954595-0-521e9614284c3d303b0b69c2cbbbe61b&se=kankan&ct=7&_mode=1&_cp=1&_fk=87F7984D9E64C4BB0642F1DA3BB6FA4C616700E29ECC55F8B17689AD53EDA2BC
+#EXTINF:-1 ,第一财经
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=dycjhd
+#EXTINF:-1 ,上海都市HD
+http://hw-stream.kksmg.com/live/ylpd7bf15f94.m3u8?auth_key=1574742919-73438443-0-a41511c3f8a0f80289ae84268de188a8&se=kankan&ct=2&_mode=1&_cp=1&_fk=57D8147763DB9AFB2793FF07DA07B5FFD2872C335C6A687CB5172E08F23D2A6D
+#EXTINF:-1 ,上海外语频道
+http://hw-stream.kksmg.com/live/wypdc4eb57c5.m3u8?auth_key=1574742892-51636939-0-be14993ddf6f849f61b592dbf8ab0e14&se=kankan&ct=2&_mode=1&_cp=1&_fk=7724437B845AFF9C7DFBE4F93347C52567D9D82F0B856521E8F248B77E941FAE
+#EXTINF:-1 ,上海纪实
+http://hw-stream.kksmg.com/live/jspd49d251f8.m3u8?auth_key=1577711771-14508033-0-0a6c1899ba8d99464b1f42c45e89aca6&se=kankan&ct=2&_mode=1&_cp=1&_fk=613723B955C5DDF230D2186613ED87307F4DFFBA6D1EE46FFA8A746A4F6F8105
+#EXTINF:-1 ,全纪实
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=qjs
+#EXTINF:-1 ,法治天地
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=fztd
+#EXTINF:-1 ,五星体育
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/1.m3u8
+#EXTINF:-1 ,
+#EXTINF:-1 ,
+#EXTINF:-1 ,
+#EXTINF:-1 ,
+
