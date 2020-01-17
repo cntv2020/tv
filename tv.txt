@@ -1,19 +1,23 @@
 ﻿新闻,#genre#
 凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv#p8p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts#vjms://23.237.33.155:8500:3502/live/cid=401#rtmp://58.200.131.2:1935/livetv/fhzx
 TVBS新闻,vjms://58.215.133.185:8500:3502/live/cid=348#vjms://121.14.222.75:8500:3502/live/cid=348#vjms://23.237.33.155:8500:3502/live/cid=348
-东森新闻,http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv#vjms://58.215.133.185:8500:3502/live/cid=340#vjms://121.14.222.75:8500:3502/live/cid=340#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#vjms://23.237.33.155:8500:3502/live/cid=340
+东森新闻,P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts#http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv#vjms://58.215.133.185:8500:3502/live/cid=340#vjms://121.14.222.75:8500:3502/live/cid=340#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#vjms://23.237.33.155:8500:3502/live/cid=340
 三立新闻,vjms://58.215.133.185:8500:3502/live/cid=352#mitv://198.255.74.87:9906/5dc08f23000011a301b8123cd9eeb306.ts#vjms://121.14.222.75:8500:3502/live/cid=352#vjms://23.237.33.155:8500:3502/live/cid=352
+翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts#p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
+香港无线新闻,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts#p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
+CCTV-13新闻,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8#http://39.135.34.142:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=1106497909461172796&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjht3HVAbnHsmZNUh9hfpXto6CyOW1rkA%2biXZhxwyg0QWyFIN7oKbswdBdf7iWy8vlE#http://web.hls.timetv.cn/mlive/cctv/cctv13hd.m3u8
+CNN,mitv://198.255.74.87:9906/5dc08efe000b8c7e01b784a46c9cd95b.ts#vjms://121.14.222.75:8500:3502/live/cid=428#p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts#vjms://23.237.33.155:8500:3502/live/cid=428
 中天新闻,http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.flv#mitv://198.255.74.87:9906/5dc08f1f0007d1ac01b804981dcfd1d9.ts#vjms://58.215.133.185:8500:3502/live/cid=407#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts#vjms://23.237.33.155:8500:3502/live/cid=407
 TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://121.14.222.75:8500:3502/live/cid=349#vjms://23.237.33.155:8500:3502/live/cid=349
 凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv#p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts#vjms://23.237.33.155:8500:3502/live/cid=400#rtmp://58.200.131.2:1935/livetv/fhzw
 TVB无线新闻台,vjms://23.237.33.155:8500:3502/live/cid=366#mitv://198.255.74.87:9906/5dc08f31000c0e8e01b84bfda44773e0.ts#http://www.liveviptv.xyz/tv/tvb.php#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 凤凰香港,p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE#mitv://198.255.74.87:9906/5dc08f2d000e208e01b83ce5cbcfd216.ts
 年代新闻,vjms://23.237.33.155:8500:3502/live/cid=455#mitv://198.255.74.87:9906/5dc08f27000164c901b822323153c62a.ts#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts#vjms://58.215.133.185:8500:3502/live/cid=455
-非凡新闻,vjms://58.215.133.185:8500:3502/live/cid=443#http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv#mitv://198.255.74.87:9906/5dc08f2700008beb01b821fba13d9e32.ts#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts#vjms://23.237.33.155:8500:3502/live/cid=443
+非凡新闻,P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts#vjms://58.215.133.185:8500:3502/live/cid=443#http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv#mitv://198.255.74.87:9906/5dc08f2700008beb01b821fba13d9e32.ts#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts#vjms://23.237.33.155:8500:3502/live/cid=443
 中视新闻,http://pili-live-hdl.qhmywl.com:80/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.m3u8#mitv://198.255.74.87:9906/5dc08f2a0007ed3201b82f97c922337c.ts
 壹新闻,mitv://198.255.74.87:9906/5dc08f23000639e201b813cf63badeb6.ts#p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts#vjms://23.237.33.155:8500:3502/live/cid=445
-寰宇新闻,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts#http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
-寰宇新闻2台,http://pili-live-hdl.qhmywl.com:80/dsdtv/0d192b1fb482857fb4694a12c2718302.m3u8
+寰宇新闻,http://ms003.happytv.com.tw/live/h5FgcKNBgzr7aQct/index.m3u8?token=LZnN5oUWWmRKBWY_eX-amA&time=1579172659565#p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts#http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
+寰宇新闻2台,http://ms003.happytv.com.tw/live/r69zmtZdNZ9aAQXT/index.m3u8?token=80Fk7h8m3tG30J50Qg8BWg&time=1579172615296#http://pili-live-hdl.qhmywl.com:80/dsdtv/0d192b1fb482857fb4694a12c2718302.m3u8
 民视新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#mitv://198.255.74.87:9906/5dc08f2a0005264801b82ee1ee01412a.ts#vjms://23.237.33.155:8500:3502/live/cid=454
 东森财经,vjms://58.215.133.185:8500:3502/live/cid=456#http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv#vjms://121.14.222.75:8500:3502/live/cid=456#p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts#vjms://23.237.33.155:8500:3502/live/cid=456
 寰宇财经台,mitv://198.255.74.87:9906/5dc08f180004f9d101b7e885e19b7517.ts#p8p://0198.02686.cc:16871/5d1a69bb00034ddd11bdf8710f58e2f3.ts
@@ -26,15 +30,26 @@ RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 
 
+
+
 最佳电视,#genre#
 探索亚洲,vjms://58.215.133.185:8500:3502/live/cid=440#mitv://198.255.74.87:9906/5dc08f0c000ae91d01b7bb2a503af63a.ts#vjms://23.237.33.155:8500:3502/live/cid=440
 国家地理,vjms://23.237.33.155:8500:3502/live/cid=115#vjms://58.215.133.185:8500:3502/live/cid=115
 探索科学,vjms://58.215.133.185:8500:3502/live/cid=457#mitv://198.255.74.87:9906/5dc08f090005b59301b7ae1d2b2dd80f.ts#vjms://23.237.33.155:8500:3502/live/cid=457
-探索频道,rtmp://58.200.131.2:1935/livetv/discovery
-SMART,p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
-国家地理野生,P2p://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts#vjms://58.215.133.185:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=396
+探索频道,p2p://lino.homeunix.com:6007/59fcf587000c4fc201eb95c324ea0953.ts#rtmp://58.200.131.2:1935/livetv/discovery
+Ci罪案侦缉 HD,p2p://lino.homeunix.com:6007/59fd2824000df04802b14b7973731f54.ts
+Discovery EVE,p2p://lino.homeunix.com:6007/59fd286b000e1cdb02b260d1385f3d28.ts
+History HD,p2p://lino.homeunix.com:6007/59fd16f900060059026e396d395f3348.ts
+History2 HD,p2p://lino.homeunix.com:6007/59fd2b7900012c9002be4c3577197bb9.ts
+BBC earth 地球频道 HD,p2p://lino.homeunix.com:6007/59fd3223000ee20302d857cf1a981663.ts
+BBC生活频道,p2p://lino.homeunix.com:6007/59fd320000071ba102d7cd137e585878.ts
+E! Entertainment,p2p://lino.homeunix.com:6007/59fd29f4000d9cec02b85fd97aba3e4f.ts
+EYETV旅游 HD,p2p://lino.homeunix.com:6007/59fd27c4000cb3b102afd41b5cc4003d.ts
+OUTDOOR HD,p2p://lino.homeunix.com:6007/59fd15a600029d6902690c5b552d077d.ts
+国家地理野生,p2p://lino.homeunix.com:6007/59fd082b000c6ca7023466633fed4c93.ts#P2p://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts#vjms://58.215.133.185:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=396
 动物星球,vjms://58.215.133.185:8500:3502/live/cid=3
 TLC旅游生活,vjms://58.215.133.185:8500:3502/live/cid=103#vjms://23.237.33.155:8500:3502/live/cid=103
+SMART,p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
 亚洲旅游台,P2p://190.2.146.92:18912/5c724854000188081d520e6e279b2446.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 StarWorld,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
 BBC Earth,http://fang.fhzyy.com/live/260087c6636049bbbc187027547c905d.flv
@@ -193,11 +208,16 @@ CETV1,http://121.31.30.91:8081/ysten-business/live/jiaoyutv/1.m3u8
 
 英文精选,#genre#
 CNN,mitv://198.255.74.87:9906/5dc08efe000b8c7e01b784a46c9cd95b.ts#vjms://121.14.222.75:8500:3502/live/cid=428#p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts#vjms://23.237.33.155:8500:3502/live/cid=428
-CNBC,vjms://58.215.133.185:8500:3502/live/cid=98
+CNBC,vjms://58.215.133.185:8500:3502/live/cid=98#p2p://lino.homeunix.com:6007/59fd13fa000e6ccb026287884cf4343a.ts
 FOXNews,vjms://58.215.133.185:8500:3502/live/cid=97#p8p://0198.02686.cc:16871/5d1a697f0002f4fc11bd0dfb9dd398c6.ts#vjms://121.14.222.75:8500:3502/live/cid=97
 BBC,vjms://58.215.133.185:8500:3502/live/cid=418#vjms://121.14.222.75:8500:3502/live/cid=418#vjms://23.237.33.155:8500:3502/live/cid=418
 CBSN,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 CBS,http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+今日俄罗斯,p2p://lino.homeunix.com:6007/5acb88f40000e1422c19ae4624f1680c.ts
+阿拉伯半岛,p2p://lino.homeunix.com:6007/5acb89f900027bd72c1daa3b4a4268c8.ts
+DW-TV,p2p://lino.homeunix.com:6007/59fd139d000070db026118a63259113d.ts
+CHANNEL NEWSASIA,p2p://lino.homeunix.com:6007/5a56d833000e41286443908c2a501e55.ts
+Bloomberg,p2p://lino.homeunix.com:6007/59fd143600049ec602636f67016a7ce1.ts
 阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 CGTN ,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2001656801.m3u8#http://live.cgtn.com/1000/prog_index.m3u8
 Discovery(知識頻道),P2p://190.2.146.92:18912/5bee4e9b0004056f19ca944341e3368d.ts
@@ -275,7 +295,6 @@ TRAVEL CHANNEL,p8p://174.128.239.250:16871/5d1a69f1000c88a511becdbe69be6f03.ts
 VICELAND,p8p://174.128.239.250:16871/5d1a69f4000ac0e011bed902ea7910be.ts
 WEATHER,p8p://174.128.239.250:16871/5d1a69f50006456d11bedbc41e2736ae.ts
 
-
 港台其他,#genre#
 年代MUCH,vjms://58.215.133.185:8500:3502/live/cid=439#vjms://23.237.33.155:8500:3502/live/cid=439
 美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
@@ -330,7 +349,7 @@ FOXSPORT1,rtmp://59.124.75.137/sat/tv731#rtmp://59.124.75.137/sat/tv731
 FOXSPORT2,rtmp://59.124.75.137/sat/tv741#rtmp://59.124.75.137/sat/tv741
 FOXSPORT3,mitv://198.255.74.87:9906/5dc08f140009290701b7d9f7e97f9c57.ts#vjms://58.215.133.185:8500:3502/live/cid=95
 ELTA体育HD,vjms://58.215.133.185:8500:3502/live/cid=266#mitv://198.255.74.87:9906/5dc08f18000177aa01b7e79f98d38e41.ts#vjms://23.237.33.155:8500:3502/live/cid=266
-博斯高球1,vjms://58.215.133.185:8500:3502/live/cid=265#vjms://121.14.222.75:8500:3502/live/cid=265#vjms://23.237.33.155:8500:3502/live/cid=265
+ELTA体育3 ,P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 博斯高球2,p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
 博斯无限,mitv://198.255.74.87:9906/5dc08f14000bad9301b7da9c1cd36e95.ts
 博斯运动二台,mitv://198.255.74.87:9906/5dc08f14000d867301b7db159f054a88.ts
@@ -346,7 +365,14 @@ ADSport 2,http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 ADSport 3,http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
 ADSport 4,http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
 皇马足球台,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-
+博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=eqz9E8GfvSKbo41zDM-EOg&time=1579172710951
+博斯网球,http://ms003.happytv.com.tw/live/FzLFb3xEceDGV36e/index.m3u8?token=Q0iUVASxrjQV0Ig7nn_Klg&time=1579172762376
+博斯网球,http://ms003.happytv.com.tw/live/FzLFb3xEceDGV36e/index.m3u8?token=P8AizyCX6K92uQhZleImIA&time=1579172886328
+博斯无限2,http://ms003.happytv.com.tw/live/Qzn3r4DpmGGdCdsW/index.m3u8?token=EQnawq4sFyyTrCADovXppw&time=1579172954469
+博斯无限,http://ms006.happytv.com.tw/live/uQ6P8lZv3VmUUu0A/index.m3u8?token=MFcUChjyQlzHSEdOI8HJPw&time=1579172997148
+博斯高球2,http://ms006.happytv.com.tw/live/4D4HXDqQQGoE2DH1/index.m3u8?token=KTeFIw6ywtgiz8H7cr1dgQ&time=1579173032423
+博斯高球1,http://ms006.happytv.com.tw/live/LVcGUp6FMXcPa48E/index.m3u8?token=Ipx3vwD5SEt1XZkH1cGuag&time=1579173084413
+博斯高球1,vjms://58.215.133.185:8500:3502/live/cid=265#vjms://121.14.222.75:8500:3502/live/cid=265#vjms://23.237.33.155:8500:3502/live/cid=265
 
 中CBIN,#genre#
 NIHAO TV,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNCHNTV/1800/vCIBNCHNTV.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
@@ -793,6 +819,7 @@ YTNHD,P2p://51.79.41.137:18912/5b140a0c0006a20017d4dbe205632a7c.ts
 TV CHOSUN,P2p://51.79.41.137:18912/5b140a0a000388ab17d4d3475cd004fb.ts
 
 新马泰,#genre#
+==马==,http://
 BERNAMA,http://50.7.161.82:8278/Bernama/playlist.m3u8?tid=m02000000000012087578&ct=17975&tsum=73be977f4f0798142ff736e6f09da82d
 AWANI,https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8#http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
 DISNEY JUNIOR,http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -801,6 +828,7 @@ TV1,http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b36960
 TV2,http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 RTM SPORTS,http://rtmsportshdmobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8#http://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b764000.m3u8
 TV IKIM,http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
+==新==,http://
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
 Ch 8,https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8#https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
 Ch 5,https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8#https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
@@ -809,7 +837,6 @@ OKTO,https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8#https://ddft
 suria,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8#https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master.m3u8
 Miao Mi TV,http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8#http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
-松视,#genre#
 HAPPY,p2p://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
 HOT星颖,p2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
 松视1台,p2p://51.79.41.138:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
@@ -822,4 +849,3 @@ HOT星颖,p2p://51.79.41.138:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
 香蕉台HD,p2p://51.79.41.138:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
 潘多拉粉红,p2p://51.79.41.138:18912/5c18f90c000e8229c074606a15084f35.ts.ts
 潘多拉完美,p2p://51.79.41.138:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
-
