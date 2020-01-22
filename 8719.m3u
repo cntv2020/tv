@@ -5,6 +5,8 @@ http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 ,凤凰卫视
 
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 ,阿拉伯半岛
+http://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1 ,东森新闻
 http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 #EXTINF:-1 ,三立新闻
@@ -21,6 +23,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 ,华视
 http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1 ,NHK华语世界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 ,国家地理
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 ,动物星球
@@ -70,7 +74,11 @@ http://121.31.30.91:8081/ysten-business/live/cctv-14/1.m3u8
 #EXTINF:-1 ,CCTV 15
 http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
 #EXTINF:-1 ,CGTN
-http://121.31.30.91:8081/ysten-business/live/cctv-9/1.m3u8
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 ,CGTN记录
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 ,广州新闻
+http://aplay.gztv.com/sec/xinwen.m3u8
 #EXTINF:-1 ,东方卫视
 http://121.31.30.91:8081/ysten-business/live/hddongfangstv/1.m3u8
 #EXTINF:-1 ,黑龙江卫视
@@ -137,7 +145,8 @@ http://player.ioioz.com/18/tv.php?tv=shydbst&id=qjs
 http://player.ioioz.com/18/tv.php?tv=shydbst&id=fztd
 #EXTINF:-1 ,五星体育
 http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/1.m3u8
-#EXTINF:-1 ,
+#EXTINF:-1 ,浦东综合
+http://pdlive.lyuncloud.com/pdlive/pdtv/index.m3u8
 #EXTINF:-1 ,
 #EXTINF:-1 ,
 #EXTINF:-1 ,
