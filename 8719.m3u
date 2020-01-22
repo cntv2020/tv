@@ -34,7 +34,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
 #EXTINF:-1 ,求索记录
 http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1 ,NHK华语世界
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 #EXTINF:-1 ,FOX动作电影
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 ,好莱坞电影
@@ -73,8 +73,6 @@ http://121.31.30.91:8081/ysten-business/live/cctv-13/1.m3u8
 http://121.31.30.91:8081/ysten-business/live/cctv-14/1.m3u8
 #EXTINF:-1 ,CCTV 15
 http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
-#EXTINF:-1 ,CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 ,CGTN记录
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 ,广州新闻
