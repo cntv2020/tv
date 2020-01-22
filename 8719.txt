@@ -268,7 +268,7 @@ ELTA体育3 ,P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
 纬来体育,vjms://58.215.133.185:8500:3502/live/cid=202#mitv://198.255.74.87:9906/5dc08f26000c474d01b821140ba0e8a9.ts#vjms://23.237.33.155:8500:3502/live/cid=202
 Z频道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
 Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
-NBA,mitv://198.255.74.87:9906/5dc08f01000f128101b79143179b1752.ts
+NBA,P2p://sdgdklwos.finetv.tv:9906/59fd169800027ee0026cbdab73845c4a
 澳視体育,http://103.233.191.133/ch4/sport_ch4.live/playlist.m3u8
 澳視体育,http://61.244.22.4/ch4/sport_ch4.live/playlist.m3u8
 ADSport 1,http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
