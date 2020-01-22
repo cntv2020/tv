@@ -1,10 +1,10 @@
 ﻿#EXTM3U
 #EXTINF:-1 ,凤凰资讯
 
-http://117.169.120.138:8080/live/fhzixun/.m3u8
+http://liveali.ifeng.com/live/FHZX.flv
 #EXTINF:-1 ,凤凰卫视
 
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+http://liveali.ifeng.com/live/FHZW.flv
 #EXTINF:-1 ,阿拉伯半岛
 http://english.streaming.aljazeera.net/aljazeera/english2/index1296.m3u8
 #EXTINF:-1 ,东森新闻
