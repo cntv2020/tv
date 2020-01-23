@@ -42,7 +42,7 @@ http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 ,东森洋片
 http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 ,CCTV 1
-http://121.31.30.91:8081/ysten-business/live/hdcctv01/1.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 #EXTINF:-1 ,CCTV 2
 http://121.31.30.91:8081/ysten-business/live/cctv-2/1.m3u8
 #EXTINF:-1 ,CCTV 3
@@ -68,7 +68,7 @@ http://121.31.30.91:8081/ysten-business/live/cctv-11/1.m3u8
 #EXTINF:-1 ,CCTV 12
 http://121.31.30.91:8081/ysten-business/live/cctv-12/1.m3u8
 #EXTINF:-1 ,CCTV 13
-http://121.31.30.91:8081/ysten-business/live/cctv-13/1.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 #EXTINF:-1 ,CCTV 14
 http://121.31.30.91:8081/ysten-business/live/cctv-14/1.m3u8
 #EXTINF:-1 ,CCTV 15
