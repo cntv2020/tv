@@ -136,7 +136,7 @@ DOX美剧,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1c639fe68ed5de6804966
 骄阳剧场,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 
 上海本地,#genre#
-上海新闻,http://hw-stream.kksmg.com/live/stv5ed4462f.m3u8?auth_key=1574742865-12954595-0-521e9614284c3d303b0b69c2cbbbe61b&se=kankan&ct=7&_mode=1&_cp=1&_fk=87F7984D9E64C4BB0642F1DA3BB6FA4C616700E29ECC55F8B17689AD53EDA2BC#http://player.ioioz.com/18/tv.php?tv=shydbst&id=shxw
+上海新闻,http://cbnlive.cbchot.com/live/SHNewsHD_1.m3u8?123
 第一财经,https://w1live.livecdn.yicai.com/live/cbn.m3u8
 东方卫视,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8#http://hw-stream.kksmg.com/live/dtvf76c11e8.m3u8?auth_key=1576166354-75264791-0-ebf4000386414380f8cd9928d95cefa1&se=kankan&ct=7&_mode=1&_cp=1&_fk=06AA7245573FC07C36A7454D06F60BC5A076EC09CD0D1FF43760A7D7F376CC87#http://39.135.34.143:18890/000000001000/1000000001000030202/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000030202&owchid=ystenlive&owsid=1106497909461236159&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR5IXgk%2B6a%2BY1Viivj30IkCl065X8GSWgqnbGOJH69GYNl9jXWqt3b3Vkm63dGSY%2B5#http://player.ioioz.com/18/tv.php?tv=shydbst&id=dfwshd
 上海都市HD,http://hw-stream.kksmg.com/live/ylpd7bf15f94.m3u8?auth_key=1574742919-73438443-0-a41511c3f8a0f80289ae84268de188a8&se=kankan&ct=2&_mode=1&_cp=1&_fk=57D8147763DB9AFB2793FF07DA07B5FFD2872C335C6A687CB5172E08F23D2A6D#http://player.ioioz.com/18/tv.php?tv=shydbst&id=shylhd
