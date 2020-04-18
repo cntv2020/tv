@@ -110,30 +110,7 @@ BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 龙华日韩,http://vip.xp3.biz/HK.php?id=14
 
 轮播电影,#genre#
-科幻电影,http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-好莱坞电影,http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
-怪物科幻,http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-漫威电影,http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-灾难电影,http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-丧尸电影,http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-动漫大电影,http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
-亚洲大电影,http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
-亚洲好电影,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-电影导视,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYDS/1800/vCIBNDYDS.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-电影综合,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-精品影院,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-情感影院,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-喜剧影院,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-古装剧场,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
-DOX院线,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8a7d213b10550559a073db188d08d5f7
-DOX雅趣,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=98a5538384f14ca487ca96786a441bbe
-DOX新知,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8df92ef18e714e80bc302723d5e933ee
-DOX新艺,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=3fec5428637fe3d00cea8deb981ca71c
-DOX怡家,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=9c6e3fd0b37dd8b7e4bc1f06c44cb6cf
-DOX英伦,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=21e5f6a02640bf440df4c079b4c3ad23
-DOX映画,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b17975299a9ac369dc
-DOX美剧,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1c639fe68ed5de6804966813425bdccd
-骄阳剧场,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
+
 
 上海本地,#genre#
 上海新闻,http://cbnlive.cbchot.com/live/SHNewsHD_1.m3u8?123#http://player.paymigu.com/migu.php?id=651632657
