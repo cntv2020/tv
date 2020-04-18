@@ -116,11 +116,6 @@ BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 上海新闻,http://player.paymigu.com/migu.php?id=651632657
 第一财经,https://w1live.livecdn.yicai.com/live/cbn.m3u8
 东方卫视,http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8#http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-上海都市HD,http://hw-stream.kksmg.com/live/ylpd7bf15f94.m3u8?auth_key=1574742919-73438443-0-a41511c3f8a0f80289ae84268de188a8&se=kankan&ct=2&_mode=1&_cp=1&_fk=57D8147763DB9AFB2793FF07DA07B5FFD2872C335C6A687CB5172E08F23D2A6D
-上海外语频道,http://hw-stream.kksmg.com/live/wypdc4eb57c5.m3u8?auth_key=1574742892-51636939-0-be14993ddf6f849f61b592dbf8ab0e14&se=kankan&ct=2&_mode=1&_cp=1&_fk=7724437B845AFF9C7DFBE4F93347C52567D9D82F0B856521E8F248B77E941FAE
-上海纪实,http://hw-stream.kksmg.com/live/jspd49d251f8.m3u8?auth_key=1577711771-14508033-0-0a6c1899ba8d99464b1f42c45e89aca6&se=kankan&ct=2&_mode=1&_cp=1&_fk=613723B955C5DDF230D2186613ED87307F4DFFBA6D1EE46FFA8A746A4F6F8105#http://player.ioioz.com/18/tv.php?tv=shydbst&id=shjshd
-全纪实,http://player.ioioz.com/18/tv.php?tv=shydbst&id=qjs
-法治天地,http://player.ioioz.com/18/tv.php?tv=shydbst&id=fztd
 五星体育,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/1.m3u8#http://111.48.34.209/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8#http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
 东方财经,http://player.ioioz.com/18/tv.php?tv=shydbst&id=dfcj
 上海艺术人文,http://hw-stream.kksmg.com/live/ysrw69e959eb.m3u8?auth_key=1574742957-86481966-0-07d805c9b693a640b7c50fcf130b3739&se=kankan&ct=2&_mode=1&_cp=1&_fk=F5B6390DBD7530F99116FF6E093342F71B2F2625C61A0F9BB2DA225D84EA750C
