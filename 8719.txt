@@ -35,7 +35,7 @@ RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 
 
 最佳电视,#genre#
-探索亚洲,p2p://lino.homeunix.com:6007/59fd15f7000e7852026a4bd030284bc8.ts#vjms://58.215.133.185:8500:3502/live/cid=440#mitv://198.255.74.87:9906/5dc08f0c000ae91d01b7bb2a503af63a.ts#vjms://23.237.33.155:8500:3502/live/cid=440
+探索亚洲,tvbus://7aWZM9A1CsVbqEwZeujL5eVQe4MLSmpkLfT7CF87YWiP6H4qxn#p2p://lino.homeunix.com:6007/59fd15f7000e7852026a4bd030284bc8.ts#vjms://58.215.133.185:8500:3502/live/cid=440#mitv://198.255.74.87:9906/5dc08f0c000ae91d01b7bb2a503af63a.ts#vjms://23.237.33.155:8500:3502/live/cid=440
 国家地理,p2p://lino.homeunix.com:6007/59fd16240000683c026af7fe2edc67eb.ts#vjms://23.237.33.155:8500:3502/live/cid=115#vjms://58.215.133.185:8500:3502/live/cid=115
 国家地理People HD,p2p://lino.homeunix.com:6007/59fd2804000a86bb02b0cd8e6fa14a15.ts
 探索科学,p2p://lino.homeunix.com:6007/59fd166e000c7533026c1c1b4bf23d6b.ts#vjms://58.215.133.185:8500:3502/live/cid=457#mitv://198.255.74.87:9906/5dc08f090005b59301b7ae1d2b2dd80f.ts#vjms://23.237.33.155:8500:3502/live/cid=457
