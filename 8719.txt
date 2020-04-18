@@ -1,7 +1,7 @@
 ﻿最后更新0418,#genre#
 新闻,#genre#
 凤凰资讯,rtmp://58.200.131.2:1935/livetv/fhzx
-TVBS新闻,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts#
+TVBS新闻,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 东森新闻,p2p://lino.homeunix.com:6007/5a1427ee0009fb195fc1064a3af652d1.ts#P2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts#http://pili-live-hdl.qhmywl.com/dsdtv/b237f97b0e9e21e88e0bdaae40730332.flv#vjms://58.215.133.185:8500:3502/live/cid=340#vjms://121.14.222.75:8500:3502/live/cid=340#p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#vjms://23.237.33.155:8500:3502/live/cid=340
 三立新闻,p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts#p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts#vjms://58.215.133.185:8500:3502/live/cid=352#mitv://198.255.74.87:9906/5dc08f23000011a301b8123cd9eeb306.ts#vjms://121.14.222.75:8500:3502/live/cid=352#vjms://23.237.33.155:8500:3502/live/cid=352
 翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts#p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
