@@ -5,33 +5,10 @@ TVBS新闻,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 东森新闻,tvbus://4RhcF47U5m1uZGwmN5a3ZYRhh9XAZKgxFYrrHjL5sDte3wf3bD#vjms://23.237.33.155:8500:3502/live/cid=340#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 东森财经新闻,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
 东森亚洲新闻,tvbus://3ph7zLQhjdBpPWRm3ETUDLhxC1kuAfjM8FDxt8nuXh1vwZBb9Z
-三立新闻,p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts#p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts#vjms://58.215.133.185:8500:3502/live/cid=352#mitv://198.255.74.87:9906/5dc08f23000011a301b8123cd9eeb306.ts#vjms://121.14.222.75:8500:3502/live/cid=352#vjms://23.237.33.155:8500:3502/live/cid=352
-翡翠台,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts#p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
-香港无线新闻,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts#p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
 CCTV-13新闻,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 CCTV-13新闻,http://39.135.34.142:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=1106497909461172796&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjht3HVAbnHsmZNUh9hfpXto6CyOW1rkA%2biXZhxwyg0QWyFIN7oKbswdBdf7iWy8vlE
 CNN,tvbus://8A6X7F3VPFzyHqtWcsCjfeJeroYg2zReYXm5R9cKkxgQmp15ds#p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts
-中天新闻,http://pili-live-hdl.qhmywl.com/dsdtv/e1a397539e76f45bbbf39d1467024aa3.flv#mitv://198.255.74.87:9906/5dc08f1f0007d1ac01b804981dcfd1d9.ts#vjms://58.215.133.185:8500:3502/live/cid=407#p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts#vjms://23.237.33.155:8500:3502/live/cid=407
-TVBS,vjms://58.215.133.185:8500:3502/live/cid=349#vjms://121.14.222.75:8500:3502/live/cid=349#vjms://23.237.33.155:8500:3502/live/cid=349
-凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv#p8p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts#vjms://23.237.33.155:8500:3502/live/cid=400#rtmp://58.200.131.2:1935/livetv/fhzw
-TVB无线新闻台,vjms://23.237.33.155:8500:3502/live/cid=366#mitv://198.255.74.87:9906/5dc08f31000c0e8e01b84bfda44773e0.ts#http://www.liveviptv.xyz/tv/tvb.php#p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-凤凰香港,p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts#http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE#mitv://198.255.74.87:9906/5dc08f2d000e208e01b83ce5cbcfd216.ts
-年代新闻,vjms://23.237.33.155:8500:3502/live/cid=455#mitv://198.255.74.87:9906/5dc08f27000164c901b822323153c62a.ts#p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts#vjms://58.215.133.185:8500:3502/live/cid=455
-非凡新闻,P2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts#vjms://58.215.133.185:8500:3502/live/cid=443#http://pili-live-hdl.qhmywl.com/dsdtv/408a2834f703f2162d0d5b5789344c39.flv#mitv://198.255.74.87:9906/5dc08f2700008beb01b821fba13d9e32.ts#p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts#vjms://23.237.33.155:8500:3502/live/cid=443
-中视新闻,http://pili-live-hdl.qhmywl.com:80/dsdtv/cf4d66edc142b2f0cc8c71bca56b2268.m3u8#mitv://198.255.74.87:9906/5dc08f2a0007ed3201b82f97c922337c.ts
-壹新闻,mitv://198.255.74.87:9906/5dc08f23000639e201b813cf63badeb6.ts#p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts#vjms://23.237.33.155:8500:3502/live/cid=445
-寰宇新闻,http://ms003.happytv.com.tw/live/h5FgcKNBgzr7aQct/index.m3u8?token=LZnN5oUWWmRKBWY_eX-amA&time=1579172659565#p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts#http://pili-live-hdl.qhmywl.com/dsdtv/4677cf6625ce01b236bbb58f99094d51.flv
-寰宇新闻2台,http://ms003.happytv.com.tw/live/r69zmtZdNZ9aAQXT/index.m3u8?token=80Fk7h8m3tG30J50Qg8BWg&time=1579172615296#http://pili-live-hdl.qhmywl.com:80/dsdtv/0d192b1fb482857fb4694a12c2718302.m3u8
-民视新闻,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts#mitv://198.255.74.87:9906/5dc08f2a0005264801b82ee1ee01412a.ts#vjms://23.237.33.155:8500:3502/live/cid=454
-东森财经,vjms://58.215.133.185:8500:3502/live/cid=456#http://pili-live-hdl.qhmywl.com/dsdtv/10e21c98ff74745141a386d91da24c56.flv#vjms://121.14.222.75:8500:3502/live/cid=456#p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts#vjms://23.237.33.155:8500:3502/live/cid=456
-寰宇财经台,mitv://198.255.74.87:9906/5dc08f180004f9d101b7e885e19b7517.ts#p8p://0198.02686.cc:16871/5d1a69bb00034ddd11bdf8710f58e2f3.ts
-耀才财经台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-纬来日本,mitv://198.255.74.87:9906/5dc08f26000a71c601b8209ce8a8e176.ts#vjms://23.237.33.155:8500:3502/live/cid=102
-澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8#vjms://23.237.33.155:8500:3502/live/cid=337
-香港开电视,mitv://198.255.74.87:9906/5dc08f31000ac63001b84ba99f178884.ts
-KHS,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
-有线新闻台,http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8#https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
+
 
 
 最佳电视,#genre#
@@ -116,6 +93,7 @@ BLUEANT,p8p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
 上海新闻,http://player.paymigu.com/migu.php?id=651632657
 第一财经,https://w1live.livecdn.yicai.com/live/cbn.m3u8
 东方卫视,http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8#http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+东方财经,http://w1.livecdn.yicai.com/hls/live/dftv_sd/live.m3u8
 
 国内部分,#genre#
 CCTV-1综合,http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8#http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
