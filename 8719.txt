@@ -2,7 +2,7 @@
 新闻,#genre#
 凤凰资讯,rtmp://58.200.131.2:1935/livetv/fhzx
 TVBS新闻,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
-东森新闻,vjms://23.237.33.155:8500:3502/live/cid=340#tvbus://4RhcF47U5m1uZGwmN5a3ZYRhh9XAZKgxFYrrHjL5sDte3wf3bD
+东森新闻,tvbus://4RhcF47U5m1uZGwmN5a3ZYRhh9XAZKgxFYrrHjL5sDte3wf3bD#vjms://23.237.33.155:8500:3502/live/cid=340
 东森财经新闻,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
 东森亚洲新闻,tvbus://3ph7zLQhjdBpPWRm3ETUDLhxC1kuAfjM8FDxt8nuXh1vwZBb9Z
 三立新闻,p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts#p2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts#vjms://58.215.133.185:8500:3502/live/cid=352#mitv://198.255.74.87:9906/5dc08f23000011a301b8123cd9eeb306.ts#vjms://121.14.222.75:8500:3502/live/cid=352#vjms://23.237.33.155:8500:3502/live/cid=352
