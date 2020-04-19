@@ -1,4 +1,6 @@
 ﻿更新0419,#genre#
+最后更新日,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+20200419,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 
 
 新闻,#genre#
