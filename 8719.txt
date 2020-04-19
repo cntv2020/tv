@@ -1,6 +1,5 @@
 ﻿更新0419,#genre#
-最后更新日,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
-20200419,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+4月19日更新,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 部分节目,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 启动很慢,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 建议耐心等,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
