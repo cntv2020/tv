@@ -42,7 +42,6 @@ ABC 7,P2p://51.79.41.138:18912/5b593907000a2a1ed36ebf154f6842a0
 非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 
 最佳电视,#genre#
-探索亚洲,tvbus://7aWZM9A1CsVbqEwZeujL5eVQe4MLSmpkLfT7CF87YWiP6H4qxn#p2p://lino.homeunix.com:6007/59fd15f7000e7852026a4bd030284bc8.ts#vjms://58.215.133.185:8500:3502/live/cid=440#mitv://198.255.74.87:9906/5dc08f0c000ae91d01b7bb2a503af63a.ts#vjms://23.237.33.155:8500:3502/live/cid=440
 国家地理,p2p://lino.homeunix.com:6007/59fd16240000683c026af7fe2edc67eb.ts#vjms://23.237.33.155:8500:3502/live/cid=115#vjms://58.215.133.185:8500:3502/live/cid=115
 国家地理People HD,p2p://lino.homeunix.com:6007/59fd2804000a86bb02b0cd8e6fa14a15.ts
 探索科学,p2p://lino.homeunix.com:6007/59fd166e000c7533026c1c1b4bf23d6b.ts#vjms://58.215.133.185:8500:3502/live/cid=457#mitv://198.255.74.87:9906/5dc08f090005b59301b7ae1d2b2dd80f.ts#vjms://23.237.33.155:8500:3502/live/cid=457
@@ -70,6 +69,7 @@ NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 EYETV旅游 HD,p2p://lino.homeunix.com:6007/59fd27c4000cb3b102afd41b5cc4003d.ts
 亚洲旅游台 HD,p2p://lino.homeunix.com:6007/59fd0809000909e90233e0b820d34ea5.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
+探索亚洲,tvbus://7aWZM9A1CsVbqEwZeujL5eVQe4MLSmpkLfT7CF87YWiP6H4qxn#p2p://lino.homeunix.com:6007/59fd15f7000e7852026a4bd030284bc8.ts#vjms://58.215.133.185:8500:3502/live/cid=440#mitv://198.255.74.87:9906/5dc08f0c000ae91d01b7bb2a503af63a.ts#vjms://23.237.33.155:8500:3502/live/cid=440
 
 HBO电影类,#genre#
 好莱坞电影,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
