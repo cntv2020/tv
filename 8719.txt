@@ -9,6 +9,8 @@ TVBS新闻,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 东森亚洲新闻,tvbus://3ph7zLQhjdBpPWRm3ETUDLhxC1kuAfjM8FDxt8nuXh1vwZBb9Z
 CCTV-13新闻,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 CCTV-13新闻,http://39.135.34.142:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=1106497909461172796&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjht3HVAbnHsmZNUh9hfpXto6CyOW1rkA%2biXZhxwyg0QWyFIN7oKbswdBdf7iWy8vlE
+寰宇新闻频道 HD,p2p://lino.homeunix.com:6007/59fd2b5e0006d13802bde4340bc41e87.ts
+寰宇新闻二台,p2p://lino.homeunix.com:6007/5a142744000f25045fbe6f82276e0d88.ts
 CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts#tvbus://8A6X7F3VPFzyHqtWcsCjfeJeroYg2zReYXm5R9cKkxgQmp15ds
 MSNBC,P2p://51.79.41.138:18912/5b593bde000d6234d379d7c74dd8781f
 阿拉伯半岛,p2p://lino.homeunix.com:6007/5acb89f900027bd72c1daa3b4a4268c8.ts
@@ -42,10 +44,12 @@ StarWorld,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
 BBC Earth,http://fang.fhzyy.com/live/260087c6636049bbbc187027547c905d.flv
 求索科学 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
 求索记录 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
-
-
+NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+EYETV旅游 HD,p2p://lino.homeunix.com:6007/59fd27c4000cb3b102afd41b5cc4003d.ts
+亚洲旅游台 HD,p2p://lino.homeunix.com:6007/59fd0809000909e90233e0b820d34ea5.ts
 
 HBO电影类,#genre#
+好莱坞电影,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 星影,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
 凤凰电影台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 
