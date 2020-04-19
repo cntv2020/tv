@@ -221,39 +221,51 @@ ELTA综合,mitv://198.255.74.87:9906/5dc08f18000349b501b7e817e60191a8.ts
 卫视中文台,mitv://198.255.74.87:9906/5dc08f10000e5eb101b7cbad75968b35.ts
 
 体育类,#genre#
-五星体育,http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/1.m3u8#http://111.48.34.209/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225964/3.m3u8#http://117.156.28.21/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-5体育,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8#http://39.135.34.146:18890/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive&contentid=1000000001000004794&livemode=1&stbid=005203ff000360100001001a34c0cd33&usertoken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000004794&owchid=ystenlive&owsid=1106497909461092492&authinfo=yolxjswzzffv3fvb8mhhuelkgjklbu5h0jb3qahfse7aoraovdzdwbfnj0sxjearfiatofcd93c7ach3puyar1v%2bioi39cfseenlxp5u9ufadu6bcdl7v7ctgkugzw1d
-CCTV 5+,http://140.249.30.118/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8#http://39.135.34.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
-劲爆体育,http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000116.m3u8
-ELTA體育3 ,P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
-FOXSPORT1,rtmp://59.124.75.137/sat/tv731#rtmp://59.124.75.137/sat/tv731
-FOXSPORT2,rtmp://59.124.75.137/sat/tv741#rtmp://59.124.75.137/sat/tv741
-FOXSPORT3,mitv://198.255.74.87:9906/5dc08f140009290701b7d9f7e97f9c57.ts#vjms://58.215.133.185:8500:3502/live/cid=95
-ELTA体育HD,vjms://58.215.133.185:8500:3502/live/cid=266#mitv://198.255.74.87:9906/5dc08f18000177aa01b7e79f98d38e41.ts#vjms://23.237.33.155:8500:3502/live/cid=266
-ELTA体育3 ,P2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
-博斯高球2,p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
-博斯无限,mitv://198.255.74.87:9906/5dc08f14000bad9301b7da9c1cd36e95.ts
-博斯运动二台,mitv://198.255.74.87:9906/5dc08f14000d867301b7db159f054a88.ts
-博斯运动一台,mitv://198.255.74.87:9906/5dc08f17000cfdd501b7e6aadc319b99.ts
-纬来体育,vjms://58.215.133.185:8500:3502/live/cid=202#mitv://198.255.74.87:9906/5dc08f26000c474d01b821140ba0e8a9.ts#vjms://23.237.33.155:8500:3502/live/cid=202
-Z频道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts
-Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
-NBA,P2p://sdgdklwos.finetv.tv:9906/59fd169800027ee0026cbdab73845c4a
-澳視体育,http://103.233.191.133/ch4/sport_ch4.live/playlist.m3u8
-澳視体育,http://61.244.22.4/ch4/sport_ch4.live/playlist.m3u8
-ADSport 1,http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-ADSport 2,http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-ADSport 3,http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
-ADSport 4,http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+CCTV5,http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8#http://223.110.241.204:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/#http://125.210.152.18:9090/live/CCTV5HD_H265.m3u8
+CCTV-5+体育,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8#http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8#http://121.31.30.91:8081/ysten-business/live/hdCCTV-5体育plus/1.m3u8#http://121.31.30.90:8085/ysten-business/live/hdCCTV-5体育plus/yst.m3u8#http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225938/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+CCTV16,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+五星体育,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
+劲爆体育,http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8#http://ruijian.52yi.vip/proxy.php?vid=iptv805&tid=ty&id=3
+新视觉HD,http://ruijian.52yi.vip/proxy.php?vid=iptv805&tid=ty&id=4#http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=075&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u
+广东体育,https://116.77.72.195/streams/d/gdty/playlist.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#p2p://185.212.201.60:6005/5b448ea900011e3f001291453cf2b422.ts
+辽宁体育,http://ruijian.52yi.vip/proxy.php?vid=iptv805&tid=ty&id=8
+北京体育,http://ruijian.52yi.vip/proxy.php?vid=iptv805&tid=ty&id=7
+先锋乒羽,http://ruijian.52yi.vip/proxy.php?vid=iptv805&tid=ty&id=16
 皇马足球台,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-博斯魅力,http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=eqz9E8GfvSKbo41zDM-EOg&time=1579172710951
-博斯网球,http://ms003.happytv.com.tw/live/FzLFb3xEceDGV36e/index.m3u8?token=Q0iUVASxrjQV0Ig7nn_Klg&time=1579172762376
-博斯网球,http://ms003.happytv.com.tw/live/FzLFb3xEceDGV36e/index.m3u8?token=P8AizyCX6K92uQhZleImIA&time=1579172886328
-博斯无限2,http://ms003.happytv.com.tw/live/Qzn3r4DpmGGdCdsW/index.m3u8?token=EQnawq4sFyyTrCADovXppw&time=1579172954469
-博斯无限,http://ms006.happytv.com.tw/live/uQ6P8lZv3VmUUu0A/index.m3u8?token=MFcUChjyQlzHSEdOI8HJPw&time=1579172997148
-博斯高球2,http://ms006.happytv.com.tw/live/4D4HXDqQQGoE2DH1/index.m3u8?token=KTeFIw6ywtgiz8H7cr1dgQ&time=1579173032423
-博斯高球1,http://ms006.happytv.com.tw/live/LVcGUp6FMXcPa48E/index.m3u8?token=Ipx3vwD5SEt1XZkH1cGuag&time=1579173084413
-博斯高球1,vjms://58.215.133.185:8500:3502/live/cid=265#vjms://121.14.222.75:8500:3502/live/cid=265#vjms://23.237.33.155:8500:3502/live/cid=265
+博斯高球1,p2p://lino.homeunix.com:6007/59fcf4c90006ba2c01e8ae1c1ec827ca.ts
+博斯高球2,p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
+博斯魅力,http://cloud-play.hhalloy.com/live/906ff5c1e590fdc0f41744077f56672a.flv#http://pili-live-hdl.qhmywl.com/dsdtv/906ff5c1e590fdc0f41744077f56672a.flv
+博斯无限,p2p://lino.homeunix.com:6007/59fd149100031ddf0264d2721a4e5126.ts
+博斯网球,http://cloud-play.hhalloy.com/live/cf415a2419c61638eefa5eb8c5a65922.flv#http://pili-live-hdl.qhmywl.com/dsdtv/cf415a2419c61638eefa5eb8c5a65922.flv
+博斯运动1,p2p://lino.homeunix.com:6007/59fcf5fa00018d0c01ed543c25887aed.ts
+博斯运动2,p2p://lino.homeunix.com:6007/59fd3861000ae97702f0b8f522337286.ts
+trace体育,http://pili-live-hdl.qhmywl.com/dsdtv/3b88f91a420e6cd59cd034ccf2a05c10.flv
+fox体育,p8p://0198.02686.cc:16871/5d3dbde900063ceb68074164e80ad397.ts
+fox体育2,p8p://0198.02686.cc:16871/5d1a6980000a5de111bd13c8299365a8.ts
+fox体育3,http://cloud-play.hhalloy.com/live/1a4ff6880b679dd340e42a9b61fe2d9f.flv
+BEIN SPORTS 1,p8p://0198.02686.cc:16871/5d1a69680000b18511bcb38e309496c6.ts
+BEIN SPORTS 2,p8p://0198.02686.cc:16871/5d1a6968000bcac511bcb666bdeec451.ts
+BEIN SPORTS 3,p8p://0198.02686.cc:16871/5d1a69690007ccaf11bcb94876fe6e8a.ts
+欧洲体育,http://cloud-play.hhalloy.com/live/96681c92588f5254e1c9f8fcb41e9d64.flv#http://pili-live-hdl.qhmywl.com/dsdtv/96681c92588f5254e1c9f8fcb41e9d64.flv
+eleven体育plue,http://cloud-play.hhalloy.com/live/b599c0682fbb5364078cb9e3093228a6.flv#http://pili-live-hdl.qhmywl.com/dsdtv/b599c0682fbb5364078cb9e3093228a6.flv
+eleven体育2,http://cloud-play.hhalloy.com/live/94283c6401f80334d9acd488b649830b.flv#http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9acd488b649830b.flv
+美国高尔夫频道 HD,p2p://lino.homeunix.com:6007/59fd23c0000c1e7f02a0245c6964058b.ts
+SKY SPORTS-1 HD,p2p://lino.homeunix.com:6007/59fd234800021a00029e4d0b3a1e0cfe.ts
+SKY SPORTS-2 HD,p2p://lino.homeunix.com:6007/59fd293a000ce7a002b5891a6e79083a.ts
+SKY SPORTS-3 HD,p2p://lino.homeunix.com:6007/5a3217f60000b572d4b37c8153892f4c.ts
+SKY SPORTS-4 HD,p2p://lino.homeunix.com:6007/5a321824000878a6d4b432253b9465ba.ts
+SKY SPORTS-5 HD,p2p://lino.homeunix.com:6007/5a321854000e85cfd4b4ef3b43ba7582.ts
+ELTA体育1台,p2p://lino.homeunix.com:6007/59fd07ba000a4d260232ac6f507c5a84.ts
+ELTA体育2台,p2p://lino.homeunix.com:6007/59fd37f9000df20002ef2381617811bf.ts
+ELTA体育3台 ,p2p://lino.homeunix.com:6007/5b1ea05d0009a88cd02e7355473b4230.ts#p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
+纬来体育,p2p://lino.homeunix.com:6007/5a141bab0009ca9c5f91208265721808.ts
+阿布体育1,http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+阿布体育2,http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+智林体育,http://play.nettv.li/mytv/tw/twalltv.php?id=4gtv-4gtv101&token=e9005259f856bc86e5d24a63e7d48eba&t=1579662738&ip=112.96.183.23&u=32867451
+极限运动频道,http://pili-live-hdl.qhmywl.com/dsdtv/7b3b2e1d0006091415635226a2ac5d86.flv
+极限运动频道2,http://pili-live-hdl.qhmywl.com/dsdtv/41005bf306743766c5affb055bc5c164.flv
+高点育乐,http://pili-live-hdl.qhmywl.com/dsdtv/ab3024fd5d5b0e84cbcd0bc0085cf043.flv
+HKC体育2台,p2p://lino.homeunix.com:6007/5a142556000de0a75fb6e584062e2de9.ts
 
 中CBIN,#genre#
 NIHAO TV,http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNCHNTV/1800/vCIBNCHNTV.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
