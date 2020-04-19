@@ -4,12 +4,16 @@
 新闻,#genre#
 凤凰资讯,rtmp://58.200.131.2:1935/livetv/fhzx
 TVBS新闻,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
+东森新闻,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
 东森新闻,tvbus://4RhcF47U5m1uZGwmN5a3ZYRhh9XAZKgxFYrrHjL5sDte3wf3bD#vjms://23.237.33.155:8500:3502/live/cid=340#http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+东森新闻,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 东森财经新闻,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
+中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 东森亚洲新闻,tvbus://3ph7zLQhjdBpPWRm3ETUDLhxC1kuAfjM8FDxt8nuXh1vwZBb9Z
 CCTV-13新闻,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 CCTV-13新闻,http://39.135.34.142:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=1106497909461172796&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjht3HVAbnHsmZNUh9hfpXto6CyOW1rkA%2biXZhxwyg0QWyFIN7oKbswdBdf7iWy8vlE
 寰宇新闻频道 HD,p2p://lino.homeunix.com:6007/59fd2b5e0006d13802bde4340bc41e87.ts
+寰宇新闻频道 HD,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
 寰宇新闻二台,p2p://lino.homeunix.com:6007/5a142744000f25045fbe6f82276e0d88.ts
 CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts#tvbus://8A6X7F3VPFzyHqtWcsCjfeJeroYg2zReYXm5R9cKkxgQmp15ds
 MSNBC,P2p://51.79.41.138:18912/5b593bde000d6234d379d7c74dd8781f
@@ -18,6 +22,16 @@ CNBC,P2p://51.79.41.138:18912/5b59394400007aa8d36faadc60806e04.ts
 DW-TV,p2p://lino.homeunix.com:6007/59fd139d000070db026118a63259113d.t
 CBS,p8p://174.128.239.250:16871/5d1a696e0008b29f11bccd0ba35fcc88.ts
 ABC 7,P2p://51.79.41.138:18912/5b593907000a2a1ed36ebf154f6842a0
+凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
+澳门有线CH1,http://202.175.127.77/live/show/ch2/index.m3u8
+澳门有线CH2,http://202.175.127.77/live/show/ch1/index.m3u8
+澳门有线CH3,http://202.175.127.77/live/show/ch3/index.m3u8
+年代新聞,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
+
+中天新聞,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
+民視新聞,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
+東森財經新聞,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
+非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 
 最佳电视,#genre#
 探索亚洲,tvbus://7aWZM9A1CsVbqEwZeujL5eVQe4MLSmpkLfT7CF87YWiP6H4qxn#p2p://lino.homeunix.com:6007/59fd15f7000e7852026a4bd030284bc8.ts#vjms://58.215.133.185:8500:3502/live/cid=440#mitv://198.255.74.87:9906/5dc08f0c000ae91d01b7bb2a503af63a.ts#vjms://23.237.33.155:8500:3502/live/cid=440
@@ -36,7 +50,7 @@ E! Entertainment,p2p://lino.homeunix.com:6007/59fd29f4000d9cec02b85fd97aba3e4f.t
 EYETV旅游 HD,p2p://lino.homeunix.com:6007/59fd27c4000cb3b102afd41b5cc4003d.ts
 OUTDOOR HD,p2p://lino.homeunix.com:6007/59fd15a600029d6902690c5b552d077d.ts
 国家地理野生,p2p://lino.homeunix.com:6007/59fd082b000c6ca7023466633fed4c93.ts#P2p://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts#vjms://58.215.133.185:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=396
-动物星球,vjms://58.215.133.185:8500:3502/live/cid=3
+动物星球,vjms://58.215.133.185:8500:3502/live/cid=3#http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 TLC旅游生活,vjms://58.215.133.185:8500:3502/live/cid=103#vjms://23.237.33.155:8500:3502/live/cid=103
 SMART,p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
 亚洲旅游台,P2p://190.2.146.92:18912/5c724854000188081d520e6e279b2446.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
@@ -46,10 +60,11 @@ BBC Earth,http://fang.fhzyy.com/live/260087c6636049bbbc187027547c905d.flv
 求索记录 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
 NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 EYETV旅游 HD,p2p://lino.homeunix.com:6007/59fd27c4000cb3b102afd41b5cc4003d.ts
-亚洲旅游台 HD,p2p://lino.homeunix.com:6007/59fd0809000909e90233e0b820d34ea5.ts
+亚洲旅游台 HD,p2p://lino.homeunix.com:6007/59fd0809000909e90233e0b820d34ea5.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
+FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
 
 HBO电影类,#genre#
-好莱坞电影,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+好莱坞电影,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 星影,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
 凤凰电影台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 
@@ -208,6 +223,21 @@ CETV1,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
 厦门卫视,http://112.50.243.4/PLTV/88888888/224/3221226781/1.m3u8#https://mrw.so/4JdYRr?dsjtv.com/ws/20200205.m3u8#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen_2/index.m3u8
 
 
+腾讯网课,#genre#
+小学一年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv1.m3u8
+小学二年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv2.m3u8
+小学三年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv3.m3u8
+小学四年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv4.m3u8
+小学五年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv5.m3u8
+小学六年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv6.m3u8
+初中一年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv7.m3u8
+初中二年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv8.m3u8
+初中三年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv9.m3u8
+高中一年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv10.m3u8
+高中二年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv11.m3u8
+高中三年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv12.m3u8
+
+
 港台其他,#genre#
 年代MUCH,vjms://58.215.133.185:8500:3502/live/cid=439#vjms://23.237.33.155:8500:3502/live/cid=439
 美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
@@ -258,6 +288,7 @@ CCTV-5+体育,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3
 CCTV16,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 五星体育,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
 劲爆体育,http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/2300000/mnf.m3u8#http://ruijian.52yi.vip/proxy.php?vid=iptv805&tid=ty&id=3
+FOX_SPORTS,p8p://0198.02686.cc:16871/5d1a69a30008cd8811bd9c1ad6dfa2ad.ts
 新视觉HD,http://ruijian.52yi.vip/proxy.php?vid=iptv805&tid=ty&id=4#http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=075&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u
 广东体育,https://116.77.72.195/streams/d/gdty/playlist.m3u8#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1#p2p://185.212.201.60:6005/5b448ea900011e3f001291453cf2b422.ts
 辽宁体育,http://ruijian.52yi.vip/proxy.php?vid=iptv805&tid=ty&id=8
