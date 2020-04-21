@@ -1,5 +1,4 @@
-﻿更新0419,#genre#
-4月19日更新,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+﻿更新0421日更新,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 部分节目,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 启动很慢,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 建议耐心等,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
@@ -24,6 +23,7 @@ CCTV-13高清,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3
 寰宇新闻频道 HD,p2p://lino.homeunix.com:6007/59fd2b5e0006d13802bde4340bc41e87.ts
 寰宇新闻频道 HD,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
 寰宇新闻二台,p2p://lino.homeunix.com:6007/5a142744000f25045fbe6f82276e0d88.ts
+FOX_News_Channel,tvbus://3uVhHiHFb2eMsxD7SjBjvMXsKo4qQS2r8VPPHcknaGLbvr9VDf
 CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts#tvbus://8A6X7F3VPFzyHqtWcsCjfeJeroYg2zReYXm5R9cKkxgQmp15ds
 MSNBC,P2p://51.79.41.138:18912/5b593bde000d6234d379d7c74dd8781f
 阿拉伯半岛,p2p://lino.homeunix.com:6007/5acb89f900027bd72c1daa3b4a4268c8.ts
