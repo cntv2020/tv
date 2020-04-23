@@ -47,7 +47,7 @@ ABC 7,P2p://51.79.41.138:18912/5b593907000a2a1ed36ebf154f6842a0
 
 最佳电视,#genre#
 探索亚洲,vjms://58.215.133.189:8500:3502/live/cid=440#tvbus://7aWZM9A1CsVbqEwZeujL5eVQe4MLSmpkLfT7CF87YWiP6H4qxn#p2p://lino.homeunix.com:6007/59fd15f7000e7852026a4bd030284bc8.ts#vjms://58.215.133.185:8500:3502/live/cid=440#mitv://198.255.74.87:9906/5dc08f0c000ae91d01b7bb2a503af63a.ts#vjms://23.237.33.155:8500:3502/live/cid=440
-国家地理,p2p://lino.homeunix.com:6007/59fd16240000683c026af7fe2edc67eb.ts#vjms://23.237.33.155:8500:3502/live/cid=115#vjms://58.215.133.185:8500:3502/live/cid=115
+国家地理,vjms://58.215.133.189:8500:3502/live/cid=115#p2p://lino.homeunix.com:6007/59fd16240000683c026af7fe2edc67eb.ts#vjms://23.237.33.155:8500:3502/live/cid=115#vjms://58.215.133.185:8500:3502/live/cid=115
 国家地理People HD,p2p://lino.homeunix.com:6007/59fd2804000a86bb02b0cd8e6fa14a15.ts
 探索科学,vjms://58.215.133.189:8500:3502/live/cid=457#p2p://lino.homeunix.com:6007/59fd166e000c7533026c1c1b4bf23d6b.ts#vjms://58.215.133.185:8500:3502/live/cid=457#mitv://198.255.74.87:9906/5dc08f090005b59301b7ae1d2b2dd80f.ts#vjms://23.237.33.155:8500:3502/live/cid=457
 探索频道,p2p://lino.homeunix.com:6007/59fcf587000c4fc201eb95c324ea0953.ts#rtmp://58.200.131.2:1935/livetv/discovery
@@ -61,7 +61,7 @@ BBC生活频道,p2p://lino.homeunix.com:6007/59fd320000071ba102d7cd137e585878.ts
 E! Entertainment,p2p://lino.homeunix.com:6007/59fd29f4000d9cec02b85fd97aba3e4f.ts
 EYETV旅游 HD,p2p://lino.homeunix.com:6007/59fd27c4000cb3b102afd41b5cc4003d.ts
 OUTDOOR HD,p2p://lino.homeunix.com:6007/59fd15a600029d6902690c5b552d077d.ts
-国家地理野生,p2p://lino.homeunix.com:6007/59fd082b000c6ca7023466633fed4c93.ts#P2p://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts#vjms://58.215.133.185:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=396
+国家地理野生,vjms://58.215.133.189:8500:3502/live/cid=263#p2p://lino.homeunix.com:6007/59fd082b000c6ca7023466633fed4c93.ts#P2p://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts#vjms://58.215.133.185:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=396
 动物星球,vjms://58.215.133.185:8500:3502/live/cid=3#http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 TLC旅游生活,vjms://58.215.133.185:8500:3502/live/cid=103#vjms://23.237.33.155:8500:3502/live/cid=103
 SMART,p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
@@ -76,6 +76,7 @@ EYETV旅游 HD,p2p://lino.homeunix.com:6007/59fd27c4000cb3b102afd41b5cc4003d.ts
 FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
 
 HBO电影类,#genre#
+HBO亞洲電影,vjms://58.215.133.189:8500:3502/live/cid=261
 好莱坞电影,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 星影,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
 凤凰电影台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
