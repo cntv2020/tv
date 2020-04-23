@@ -1,4 +1,5 @@
-﻿更新0423日更新,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+﻿更新0423,#genre#
+更新0423日更新,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 部分节目,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 启动很慢,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 建议耐心等,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
@@ -27,6 +28,7 @@ BBC,vjms://58.215.133.189:8500:3502/live/cid=418
 CNN,vjms://58.215.133.189:8500:3502/live/cid=428
 CNBC,vjms://58.215.133.189:8500:3502/live/cid=98
 FOX_News_Channel,tvbus://3uVhHiHFb2eMsxD7SjBjvMXsKo4qQS2r8VPPHcknaGLbvr9VDf
+foxbnews,tvbus://3ifEUyvkSmeiGaUDk7czat8zznAczSXQWTeHizsyS3wCekTE3L
 CNN,p8p://0198.02686.cc:16871/5d1a6972000da8dd11bcddf043353558.ts#tvbus://8A6X7F3VPFzyHqtWcsCjfeJeroYg2zReYXm5R9cKkxgQmp15ds
 MSNBC,P2p://51.79.41.138:18912/5b593bde000d6234d379d7c74dd8781f
 阿拉伯半岛,p2p://lino.homeunix.com:6007/5acb89f900027bd72c1daa3b4a4268c8.ts
