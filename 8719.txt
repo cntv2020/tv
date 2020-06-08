@@ -264,22 +264,6 @@ CETV1,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
 广东综艺,http://nclive.grtn.cn/4K/sd/live.m3u8
 厦门卫视,http://112.50.243.4/PLTV/88888888/224/3221226781/1.m3u8#https://mrw.so/4JdYRr?dsjtv.com/ws/20200205.m3u8#http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xiamen_2/index.m3u8
 
-
-腾讯网课,#genre#
-小学一年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv1.m3u8
-小学二年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv2.m3u8
-小学三年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv3.m3u8
-小学四年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv4.m3u8
-小学五年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv5.m3u8
-小学六年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv6.m3u8
-初中一年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv7.m3u8
-初中二年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv8.m3u8
-初中三年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv9.m3u8
-高中一年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv10.m3u8
-高中二年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv11.m3u8
-高中三年级腾讯网课 ,https://live-edu.wasu.tv/live/QiEFuDao-lv12.m3u8
-
-
 港台其他,#genre#
 年代MUCH,vjms://58.215.133.185:8500:3502/live/cid=439#vjms://23.237.33.155:8500:3502/live/cid=439
 美食星球,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
