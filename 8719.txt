@@ -1,4 +1,4 @@
-﻿更新0608,#genre#
+﻿更新0902,#genre#
 更新0608日更新,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 部分节目,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 启动很慢,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
@@ -26,8 +26,8 @@ CCTV-13高清,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3
 寰宇新闻频道 HD,p2p://lino.homeunix.com:6007/59fd2b5e0006d13802bde4340bc41e87.ts
 寰宇新闻频道 HD,p8p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
 寰宇新闻二台,p2p://lino.homeunix.com:6007/5a142744000f25045fbe6f82276e0d88.ts
-BBC,vjms://58.215.133.189:8500:3502/live/cid=418
-CNN,vjms://58.215.133.189:8500:3502/live/cid=428
+BBC,vjms://58.215.133.154:8500/live/cid=418
+CNN,vjms://58.215.133.154:8500/live/cid=428
 CNBC,vjms://58.215.133.189:8500:3502/live/cid=98
 FOX_News_Channel,tvbus://3uVhHiHFb2eMsxD7SjBjvMXsKo4qQS2r8VPPHcknaGLbvr9VDf
 foxbnews,tvbus://3ifEUyvkSmeiGaUDk7czat8zznAczSXQWTeHizsyS3wCekTE3L
@@ -50,7 +50,7 @@ ABC 7,P2p://51.79.41.138:18912/5b593907000a2a1ed36ebf154f6842a0
 非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 
 最佳电视,#genre#
-探索亚洲,vjms://58.215.133.189:8500:3502/live/cid=440#tvbus://7aWZM9A1CsVbqEwZeujL5eVQe4MLSmpkLfT7CF87YWiP6H4qxn#p2p://lino.homeunix.com:6007/59fd15f7000e7852026a4bd030284bc8.ts#vjms://58.215.133.185:8500:3502/live/cid=440#mitv://198.255.74.87:9906/5dc08f0c000ae91d01b7bb2a503af63a.ts#vjms://23.237.33.155:8500:3502/live/cid=440
+探索亚洲,vjms://58.215.133.154:8500/live/cid=440
 国家地理,vjms://58.215.133.189:8500:3502/live/cid=115#p2p://lino.homeunix.com:6007/59fd16240000683c026af7fe2edc67eb.ts#vjms://23.237.33.155:8500:3502/live/cid=115#vjms://58.215.133.185:8500:3502/live/cid=115
 国家地理People HD,p2p://lino.homeunix.com:6007/59fd2804000a86bb02b0cd8e6fa14a15.ts
 探索科学,vjms://58.215.133.189:8500:3502/live/cid=457#p2p://lino.homeunix.com:6007/59fd166e000c7533026c1c1b4bf23d6b.ts#vjms://58.215.133.185:8500:3502/live/cid=457#mitv://198.255.74.87:9906/5dc08f090005b59301b7ae1d2b2dd80f.ts#vjms://23.237.33.155:8500:3502/live/cid=457
