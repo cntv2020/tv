@@ -1,6 +1,6 @@
-﻿更新0902,#genre#
+﻿更新0904,#genre#
 更新探索亚洲,vjms://58.215.133.154:8500/live/cid=440
-更新cnn和bbc,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+更新东森新闻,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 更新凤凰系列,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 建议耐心等,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 节目出来慢,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
