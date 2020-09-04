@@ -374,11 +374,11 @@ BEIN SPORTS 3,p8p://0198.02686.cc:16871/5d1a69690007ccaf11bcb94876fe6e8a.ts
 eleven体育plue,http://cloud-play.hhalloy.com/live/b599c0682fbb5364078cb9e3093228a6.flv#http://pili-live-hdl.qhmywl.com/dsdtv/b599c0682fbb5364078cb9e3093228a6.flv
 eleven体育2,http://cloud-play.hhalloy.com/live/94283c6401f80334d9acd488b649830b.flv#http://pili-live-hdl.qhmywl.com/dsdtv/94283c6401f80334d9acd488b649830b.flv
 美国高尔夫频道 HD,p2p://lino.homeunix.com:6007/59fd23c0000c1e7f02a0245c6964058b.ts
-SKY SPORTS-1 HD,p2p://lino.homeunix.com:6007/59fd234800021a00029e4d0b3a1e0cfe.ts
-SKY SPORTS-2 HD,p2p://lino.homeunix.com:6007/59fd293a000ce7a002b5891a6e79083a.ts
-SKY SPORTS-3 HD,p2p://lino.homeunix.com:6007/5a3217f60000b572d4b37c8153892f4c.ts
-SKY SPORTS-4 HD,p2p://lino.homeunix.com:6007/5a321824000878a6d4b432253b9465ba.ts
-SKY SPORTS-5 HD,p2p://lino.homeunix.com:6007/5a321854000e85cfd4b4ef3b43ba7582.ts
+Sky Sports Mix,mitv://198.255.74.57:11196/5f4fc83f000b617fec63eca770b98e87
+Sky Sports MainEvent,mitv://198.255.74.57:11196/5f4fc83f000a8b2dec63ec704b89f49b
+Sky Sports Action,mitv://198.255.74.57:11196/5f4fc83f0009b1f1ec63ec39d40cb16f
+Sky Sports Cricket,mitv://198.255.74.57:11196/5f4fc83f0008bceeec63ebfa167f3aa9
+Sky Sports Golf,mitv://198.255.74.57:11196/5f4fc83f00088097ec63ebea6d7c7304
 ELTA体育1台,p2p://lino.homeunix.com:6007/59fd07ba000a4d260232ac6f507c5a84.ts
 ELTA体育2台,p2p://lino.homeunix.com:6007/59fd37f9000df20002ef2381617811bf.ts
 ELTA体育3台 ,p2p://lino.homeunix.com:6007/5b1ea05d0009a88cd02e7355473b4230.ts#p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
