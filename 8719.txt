@@ -332,13 +332,14 @@ FOX_SPORTS,p8p://0198.02686.cc:16871/5d1a69a30008cd8811bd9c1ad6dfa2ad.ts
 北京体育,http://ruijian.52yi.vip/proxy.php?vid=iptv805&tid=ty&id=7
 先锋乒羽,http://ruijian.52yi.vip/proxy.php?vid=iptv805&tid=ty&id=16
 皇马足球台,http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
-博斯高球1,p2p://lino.homeunix.com:6007/59fcf4c90006ba2c01e8ae1c1ec827ca.ts
-博斯高球2,p8p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
-博斯魅力,http://cloud-play.hhalloy.com/live/906ff5c1e590fdc0f41744077f56672a.flv#http://pili-live-hdl.qhmywl.com/dsdtv/906ff5c1e590fdc0f41744077f56672a.flv
-博斯无限,p2p://lino.homeunix.com:6007/59fd149100031ddf0264d2721a4e5126.ts
-博斯网球,http://cloud-play.hhalloy.com/live/cf415a2419c61638eefa5eb8c5a65922.flv#http://pili-live-hdl.qhmywl.com/dsdtv/cf415a2419c61638eefa5eb8c5a65922.flv
-博斯运动1,p2p://lino.homeunix.com:6007/59fcf5fa00018d0c01ed543c25887aed.ts
-博斯运动2,p2p://lino.homeunix.com:6007/59fd3861000ae97702f0b8f522337286.ts
+博斯運動1,mitv://198.255.74.57:11196/5f4fc855000e7bf5ec644362e19d0f27
+博斯高球Ⅱ HD,mitv://198.255.74.57:11196/5f4fc855000e4093ec6443533ecd88b0
+博斯運動II,mitv://198.255.74.57:11196/5f4fc850000c3031ec642f441e98657a
+博斯網球 HD,mitv://198.255.74.57:11196/5f4fc850000b58ecec642f0d3f7c1328
+博斯無限,mitv://198.255.74.57:11196/5f4fc850000a7f28ec642ed5edb07499
+博斯高球一臺,mitv://198.255.74.57:11196/5f4fc8500009a63dec642e9e9fc51e50
+FOX SPORTS,mitv://198.255.74.57:11196/5f4fc8500008b56dec642e606ae443cf
+FOX SPORTS 3 HD,mitv://198.255.74.57:11196/5f4fc8500007e181ec642e2aff5
 trace体育,http://pili-live-hdl.qhmywl.com/dsdtv/3b88f91a420e6cd59cd034ccf2a05c10.flv
 fox体育,p8p://0198.02686.cc:16871/5d3dbde900063ceb68074164e80ad397.ts
 fox体育2,p8p://0198.02686.cc:16871/5d1a6980000a5de111bd13c8299365a8.ts
