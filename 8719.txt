@@ -211,7 +211,15 @@ HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
 上海本地,#genre#
 上海新闻,http://39.135.248.135/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225973/3.m3u8
 第一财经,https://w1live.livecdn.yicai.com/live/cbn.m3u8
-东方卫视,http://39.134.168.91/PLTV/1/224/3221225506/index.m3u8,http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8#http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+东方卫视,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+东方卫视FHD,http://39.135.139.194:6610/PLTV/88888888/224/3221225853/1/index.m3u8?fmt=ts2hls
+东方卫视FHD,http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227396/index.m3u8
+东方卫视FHD,http://117.169.119.199:8080/live/HD-8000k-1080P-dongfangstv/index.m3u8
+东方卫视FHD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226505/1.m3u8
+东方卫视FHD,http://39.135.139.194:6610/PLTV/88888888/224/3221225489/1/index.m3u8?fmt=ts2hls
+东方卫视FHD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+东方卫视FHD,http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225887/3.m3u8
+东方卫视FHD,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225936/1.m3u8
 东方财经,http://w1.livecdn.yicai.com/hls/live/dftv_sd/live.m3u8
 上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 纪实人文,http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=069&Provider_id=&Pcontent_id=index.m3u8
