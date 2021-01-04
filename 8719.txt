@@ -11,7 +11,7 @@
 
 新闻,#genre#
 凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-凤凰资讯,http://live.centerch.com/fhzx.m3u8
+凤凰资讯,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 東森新聞臺,mitv://147.135.39.171:9906/5f167315000ed32216f8c32859024c90.ts
 民視新聞台,mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts
 中天新聞,mitv://147.135.39.171:9906/5d9a3461000c5e329cd7e0cc2586313a.ts
@@ -101,6 +101,7 @@ NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 EYETV旅游 HD,p2p://lino.homeunix.com:6007/59fd27c4000cb3b102afd41b5cc4003d.ts
 亚洲旅游台 HD,p2p://lino.homeunix.com:6007/59fd0809000909e90233e0b820d34ea5.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
 FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
+BBC Cbeebies,mitv://147.135.39.171:9906/5dea93910008156c5a02c21b24cc6be4.ts
 
 HBO电影类,#genre#
 HBO1,p9p://192.95.32.107:9906/5a7f5d8b0006c8863d2d1a0954875116&link=盗链死全家
