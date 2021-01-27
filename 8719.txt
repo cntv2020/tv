@@ -26,7 +26,7 @@ CCTV-13高清,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3
 寰宇新闻二台,p2p://lino.homeunix.com:6007/5a142744000f25045fbe6f82276e0d88.ts
 BBC,mitv://147.135.39.171:9906/5e7cf263000230893da7883a211a41d0.ts
 ABC,http://v3948069e.live.126.net/live/hwabc_MTYxMTcyMzA2Nw.flv
-CNN,http://v3948069e.live.126.net/live/hwcnn_MTYxMTY3ODk4Mg.flv
+CNN,http://v3948069e.live.126.net/live/hwcnn_MTYxMTczMDA4OQ.flv
 CNBC,vjms://58.215.133.189:8500:3502/live/cid=98
 FOX NEWS,mitv://198.255.74.57:11196/5f4fc8450005253dec64027e4c1317ad
 foxbnews,tvbus://3ifEUyvkSmeiGaUDk7czat8zznAczSXQWTeHizsyS3wCekTE3L
@@ -49,7 +49,8 @@ ABC 7,P2p://51.79.41.138:18912/5b593907000a2a1ed36ebf154f6842a0
 
 最佳电视,#genre#
 探索亚洲,mitv://147.135.39.171:9906/5ea13bb1000a50e9cb662c0c47e9549f.ts
-WWE,mitv://147.135.39.171:9906/5e9e8306000a3ed5c0c4d0050d315c34.ts
+纪录片,http://112.17.40.147/PLTV/88888888/224/3221226360/1.m3u8
+大侦探,http://112.17.40.147/PLTV/88888888/224/3221226360/1.m3u8
 國家地理頻道,mitv://147.135.39.171:9906/5ea13fdf0004d36ecb767e555c896a66.ts
 國家地理頻道悠人,mitv://147.135.39.171:9906/5ea1441e000473decb87144e4b600a26.ts
 國家地理頻道野生,mitv://147.135.39.171:9906/5ea13fdf000c8069cb7680495d882a82.ts
