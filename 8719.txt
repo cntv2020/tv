@@ -210,7 +210,7 @@ HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
 
 上海本地,#genre#
 上海新闻,http://mgsp.live.miguvideo.com:8088/wd_r4/dfl/xinwenzonghehd/1200/20210107191819-01-912835.ts#http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/2021012816/161182296.ts
-第一财经,http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8
+第一财经,http://39.134.168.77:80/PLTV/1/224/3221225494/1611823297-1-161182318.hls.ts#http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8
 东方卫视,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 东方财经,http://w1.livecdn.yicai.com/hls/live/dftv_sd/live.m3u8
 上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
@@ -222,7 +222,6 @@ HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
 上海纪实,http://39.134.65.86:80/wh7f454c46tw1791807411_-1987553314/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8?icpid=88888888&RTS=1554599564&from=1&hms_devid=129
 上海纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 上海纪实,http://39.134.168.91/PLTV/1/224/3221225488/index.m3u8
-第一财经,http://player.ioioz.com/18/tv.php?tv=shydbst&id=dycjhd
 上海外语,http://player.ioioz.com/18/tv.php?tv=shydbst&id=shwyhd
 上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 
