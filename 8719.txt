@@ -209,7 +209,7 @@ HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
 
 
 上海本地,#genre#
-上海新闻,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=2021012816503460a6f338c90f4f1ca3390ecd5bc82fe9&mdspid=&spid=699001&netType=4&sid=5500002275&pid=2028597139&timestamp=20210128165034&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=58.37.39.131&SecurityKey=20210128165034&mvid=&mcid=&mpid=&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=eeb9165e95d7e136666118d1b554400b
+上海新闻,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=202101282101418292e93884fc4b4aaacad3e7d7840541&mdspid=&spid=699001&netType=0&sid=5500002275&pid=2028597139&timestamp=20210128210141&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=218.205.92.172&SecurityKey=20210128210141&mvid=&mcid=&mpid=&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&encrypt=7bad4226bce57134da96793b026ff659
 第一财经,http://39.134.168.91/PLTV/1/224/3221225494/index.m3u8#http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8
 东方卫视,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 东方财经,http://w1.livecdn.yicai.com/hls/live/dftv_sd/live.m3u8
