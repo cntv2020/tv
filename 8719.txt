@@ -26,7 +26,7 @@ CCTV-13高清,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3
 寰宇新闻二台,p2p://lino.homeunix.com:6007/5a142744000f25045fbe6f82276e0d88.ts
 BBC,mitv://147.135.39.171:9906/5e7cf263000230893da7883a211a41d0.ts
 ABC,http://v3948069e.live.126.net/live/hwabc_MTYxMTc5ODQ3Nw.flv
-CNN,http://v3948069e.live.126.net/live/hwcnn_MTYxMTczMDA4OQ.flv
+CNN,http://v3948069e.live.126.net/live/hwcnn_MTYxMTc5Nzk0Ng.flv
 CNBC,vjms://58.215.133.189:8500:3502/live/cid=98
 FOX NEWS,mitv://198.255.74.57:11196/5f4fc8450005253dec64027e4c1317ad
 foxbnews,tvbus://3ifEUyvkSmeiGaUDk7czat8zznAczSXQWTeHizsyS3wCekTE3L
