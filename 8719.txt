@@ -209,7 +209,7 @@ HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
 
 
 上海本地,#genre#
-上海新闻,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/2021012816/161182296.ts
+上海新闻,http://mgsp.live.miguvideo.com:8088/wd_r4/dfl/xinwenzonghehd/1200/20210107191819-01-912835.ts#http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/2021012816/161182296.ts
 第一财经,http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8
 东方卫视,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 东方财经,http://w1.livecdn.yicai.com/hls/live/dftv_sd/live.m3u8
