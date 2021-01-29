@@ -13,7 +13,7 @@
 凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 凤凰资讯,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 東森新聞,http://v3948069e.live.126.net/live/twdsxw_MTYxMTkxNzQwNw.flv
-Itv三立新闻,http://v3948069e.live.126.net/live/twslinews_MTYxMTkyMDY0Ng.flv
+Itv三立新闻,http://v3948069e.live.126.net/live/twslinews_MTYxMTkyMTk2Ng.flv
 民視新聞台,mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts
 中天新聞,http://cdn.elibei.com/pull/index/pinyin/twztxw
 TVBS新闻,http://cdn.elibei.com/pull/index/pinyin/twtvbsxw#rtmp://59.124.75.156/sat/tv551#http://seb.sason.top/sc/tvbsxw_fhd.m3u8#mitv://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2.ts
@@ -210,19 +210,18 @@ HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
 
 上海本地,#genre#
 上海新闻,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-上海新闻,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=202101291942152e8edee6e0be4b469196ea5717d858aa&mdspid=&spid=699001&netType=0&sid=5500002275&pid=2028597139&timestamp=20210129194215&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=36.155.100.222&SecurityKey=20210129194215&mvid=&mcid=&mpid=&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&encrypt=aafb453f5f8d15d978097510603ba6ed
+上海新闻,http://mgsp.live.miguvideo.com:8088/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=202101291955039391d846add1407fbda58b690fd00e67&mdspid=&spid=699001&netType=4&sid=5500002275&pid=2028597139&timestamp=20210129195503&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=58.37.39.131&SecurityKey=20210129195503&mvid=&mcid=&mpid=&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=b45428bb7f4e70a89355677453caadaa
 第一财经,http://39.134.168.91/PLTV/1/224/3221225494/index.m3u8#http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8
 东方卫视,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+上海纪实,http://39.134.65.86:80/wh7f454c46tw1791807411_-1987553314/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8?icpid=88888888&RTS=1554599564&from=1&hms_devid=129
+上海纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+上海纪实,http://39.134.168.91/PLTV/1/224/3221225488/index.m3u8
 东方财经,http://w1.livecdn.yicai.com/hls/live/dftv_sd/live.m3u8
 上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
-纪实人文,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/jspdhd/2000/index.m3u8?msisdn=20210128165927e1876783a58441e78f891f8153f225c8&mdspid=&spid=699001&netType=4&sid=5500002282&pid=2028597139&timestamp=20210128165927&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=617289997&ParentNodeID=-99&assertID=5500002282&client_ip=58.37.39.131&SecurityKey=20210128165927&mvid=&mcid=&mpid=&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=49939866a774da4e3703d07785d85e3e
 五星体育,http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=004003FF0017301364008422F151297C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000010000017540&owchid=bestzb&owsid=4493204831455228383&AuthInfo=N%2biD7%2bHgi9LcszGFRGa51uAqiHNpkS5d0%2fEIXqMyy8J6GNpZ%2bE47AWi696WsOzmj7u8gynrDaeemmd3KgHvW7jm8s%2fkPykV1GmMdpMkc7doBK82U9CVAXx34x1%2fYjl4A
 上海都市,http://39.134.168.76/PLTV/1/224/3221225610/index.m3u8#http://39.134.168.91/PLTV/1/224/3221225610/index.m3u8
 上海时尚,http://player.ioioz.com/18/tv.php?tv=shydbst&id=shsshd
 东方影视,http://player.ioioz.com/18/tv.php?tv=shydbst&id=shdsjhd
-上海纪实,http://39.134.65.86:80/wh7f454c46tw1791807411_-1987553314/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8?icpid=88888888&RTS=1554599564&from=1&hms_devid=129
-上海纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-上海纪实,http://39.134.168.91/PLTV/1/224/3221225488/index.m3u8
 上海外语,http://player.ioioz.com/18/tv.php?tv=shydbst&id=shwyhd
 上海教育,http://live.setv.sh.cn/slive/shedu02_1200k.m3u8
 
@@ -233,7 +232,7 @@ CCTV-1综合,http://112.17.40.140/PLTV/88888888/224/3221226541/index.m3u8
 CCTV-1综合,http://121.31.30.87:8085/ysten-business/live/cctv-1/1.m3u8
 CCTV-1综合,http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8
 CCTV-1综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8
-CCTV-2财经,http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8#https://116.77.72.195/streams/d/cctv2/playlist.m3u8#http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8#http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/cctv2hd_4000.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+CCTV-2财经,http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 CCTV-3综艺,http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8#https://116.77.72.195/streams/d/cctv3/playlist.m3u8#http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/cctv3hd_4000.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226156/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8
 CCTV-4中文国际,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8#http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8#http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/cctv4_4000.m3u8#http://umslive.hebyun.com.cn/live/cctv4/1500k/tzwj_video.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226156/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8
 CCTV-5体育,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8#http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8#https://116.77.72.195/streams/d/cctv5/playlist.m3u8#http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8#http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/cctv5hd_4000.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226256/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226257/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226258/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226259/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226260/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226261/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226340/1.m3u8
