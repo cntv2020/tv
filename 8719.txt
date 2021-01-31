@@ -206,7 +206,7 @@ HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
 
 上海本地,#genre#
 上海新闻,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-上海新闻,http://mgsp.live.miguvideo.com:8088/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=202101291955039391d846add1407fbda58b690fd00e67&mdspid=&spid=699001&netType=4&sid=5500002275&pid=2028597139&timestamp=20210129195503&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=58.37.39.131&SecurityKey=20210129195503&mvid=&mcid=&mpid=&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=b45428bb7f4e70a89355677453caadaa
+上海新闻,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=20210131174844569c81ab8e9843bb98ce8b76a22f6f7d&mdspid=&spid=699001&netType=4&sid=5500002275&pid=2028597139&timestamp=20210131174844&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=58.37.39.131&SecurityKey=20210131174844&mvid=&mcid=&mpid=&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=c6bc4c8c30d232a186adbaa0b10dd2ce
 第一财经,http://39.134.168.91/PLTV/1/224/3221225494/index.m3u8#http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8
 东方卫视,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 上海纪实,http://39.134.65.86:80/wh7f454c46tw1791807411_-1987553314/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8?icpid=88888888&RTS=1554599564&from=1&hms_devid=129
