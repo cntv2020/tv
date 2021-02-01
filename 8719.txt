@@ -1,6 +1,6 @@
 更新0130,#genre#
 更新探索亚洲,http://202.61.135.139/ubtv.php?id=306
-每日更新东森,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+更新东森新闻,http://v3948069e.live.126.net/live/twdsxw_MTYxMjAxMTAwNg.flv
 更新凤凰系列,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 建议耐心等,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 节目出来慢,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
@@ -12,20 +12,20 @@
 新闻,#genre#
 凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 凤凰资讯,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-東森新聞,http://v3948069e.live.126.net/live/twdsxw_MTYxMjEzMjQ0Ng.flv
-Itv三立新闻,http://v3948069e.live.126.net/live/twslinews_MTYxMjEzNTAyNg.flv
+東森新聞,http://v3948069e.live.126.net/live/twdsxw_MTYxMjE3NTg4Ng.flv
+Itv三立新闻,http://v3948069e.live.126.net/live/twslinews_MTYxMTk3ODYwOA.flv
 民視新聞台,mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts
 TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#mitv://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2.ts
 寰宇新聞台,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
 非凡新聞,mitv://147.135.39.171:9906/5e5a0a88000184ac3b49713b638b501b.ts
 东森财经新闻,mitv://147.135.39.171:9906/5eec88f90004b79cf18c98952f812d55.ts
-CCTV-http://v3948069e.live.126.net/live/twdsxw_MTYxMjEzMjQ0Ng.flv3u8
+CCTV-13新闻,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 CCTV-13新闻,http://39.135.34.142:18890/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=1106497909461172796&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjht3HVAbnHsmZNUh9hfpXto6CyOW1rkA%2biXZhxwyg0QWyFIN7oKbswdBdf7iWy8vlE
 CCTV-13高清,http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8#http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/2000204603.m3u8#http://cdn-in.iqy.sc96655.com/tslive/c211_scc_20190617_t0x01q5a_original_r10/CCTV-13新闻_4000.m3u8#http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8#https://liveali.ifeng.com/live/CCTV.m3u8#http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8#http://stream4.jlntv.cn/CCTV-13新闻/sd/live.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226159/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226159/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226339/1.m3u8
 BBC,mitv://147.135.39.171:9906/5e7cf263000230893da7883a211a41d0.ts
-NBC,http://v3948069e.live.126.net/live/hwnbc_MTYxMjA2ODY2Ng.flv
+NBC,http://v3948069e.live.126.net/live/hwnbc_MTYxMTk4MjI2Ng.flv
 CNN,http://v3948069e.live.126.net/live/hwcnn_MTYxMjE0MTkyNg.flv
-ABC,http://v3948069e.live.126.net/live/hwabc_MTYxMjE0NTIyNg.flv
+ABC,http://v3948069e.live.126.net/live/hwabc_MTYxMTk4MjI2OQ.flv
 CNBC,vjms://58.215.133.189:8500:3502/live/cid=98
 FOX NEWS,mitv://198.255.74.57:11196/5f4fc8450005253dec64027e4c1317ad
 foxbnews,tvbus://3ifEUyvkSmeiGaUDk7czat8zznAczSXQWTeHizsyS3wCekTE3L
@@ -206,7 +206,7 @@ HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
 
 上海本地,#genre#
 上海新闻,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-上海新闻,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=20210131174844569c81ab8e9843bb98ce8b76a22f6f7d&mdspid=&spid=699001&netType=4&sid=5500002275&pid=2028597139&timestamp=20210131174844&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=58.37.39.131&SecurityKey=20210131174844&mvid=&mcid=&mpid=&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=c6bc4c8c30d232a186adbaa0b10dd2ce
+上海新闻,http://mgsp.live.miguvideo.com:8088/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=202101291955039391d846add1407fbda58b690fd00e67&mdspid=&spid=699001&netType=4&sid=5500002275&pid=2028597139&timestamp=20210129195503&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=58.37.39.131&SecurityKey=20210129195503&mvid=&mcid=&mpid=&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=b45428bb7f4e70a89355677453caadaa
 第一财经,http://39.134.168.91/PLTV/1/224/3221225494/index.m3u8#http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8
 东方卫视,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 上海纪实,http://39.134.65.86:80/wh7f454c46tw1791807411_-1987553314/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8?icpid=88888888&RTS=1554599564&from=1&hms_devid=129
