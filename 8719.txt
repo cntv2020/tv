@@ -25,7 +25,7 @@ CCTV-13高清,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=z
 BBC,mitv://147.135.39.171:9906/5e7cf263000230893da7883a211a41d0.ts
 NBC,http://v3948069e.live.126.net/live/hwnbc_MTYxMTk4MjI2Ng.flv
 CNN,http://v3948069e.live.126.net/live/hwcnn_MTYxMjQyNzQxMg.flv
-ABC,http://v3948069e.live.126.net/live/hwabc_MTYxMjQzODA4NQ.flv
+ABC,http://v3948069e.live.126.net/live/hwabc_MTYxMjQ0Nzc0Ng.flv
 CNBC,vjms://58.215.133.189:8500:3502/live/cid=98
 FOX NEWS,mitv://198.255.74.57:11196/5f4fc8450005253dec64027e4c1317ad
 foxbnews,tvbus://3ifEUyvkSmeiGaUDk7czat8zznAczSXQWTeHizsyS3wCekTE3L
