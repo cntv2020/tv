@@ -13,7 +13,7 @@
 凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 凤凰资讯,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 東森新聞,http://v3948069e.live.126.net/live/twdsxw_MTYxMjczMjkyNg.flv
-Itv三立新闻,http://v3948069e.live.126.net/live/twdsxw_MTYxMjczMjkyNg.flv
+Itv三立新闻,http://v3948069e.live.126.net/live/twslinews_MTYxMjczNDM3MQ.flv
 民視新聞台,mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts
 TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#mitv://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2.ts
 寰宇新聞台,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
@@ -25,7 +25,7 @@ CCTV-13高清,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=z
 BBC,mitv://147.135.39.171:9906/5e7cf263000230893da7883a211a41d0.ts
 NBC,http://v3948069e.live.126.net/live/hwnbc_MTYxMTk4MjI2Ng.flv
 CNN,http://v3948069e.live.126.net/live/hwcnn_MTYxMjcxOTAwNw.flv
-ABC,http://v3948069e.live.126.net/live/twdsxw_MTYxMjczMjkyNg.flv
+ABC,http://v3948069e.live.126.net/live/hwabc_MTYxMjc0NjEyNg.flv
 CNBC,vjms://58.215.133.189:8500:3502/live/cid=98
 FOX NEWS,mitv://198.255.74.57:11196/5f4fc8450005253dec64027e4c1317ad
 foxbnews,tvbus://3ifEUyvkSmeiGaUDk7czat8zznAczSXQWTeHizsyS3wCekTE3L
