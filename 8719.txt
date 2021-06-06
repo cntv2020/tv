@@ -1,7 +1,7 @@
 更新0606,#genre#
 更新探索亚洲,mitv://147.135.39.171:9906/5ea13bb1000a50e9cb662c0c47e9549f.ts
 更新东森新闻,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#mitv://fccsovh.pvbox.live:18912/5b1409520005add40bf29b36763a05a5.ts#mitv://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51.ts#mitv://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts
-更新凤凰系列,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+更新凤凰系列,https://player.ggiptv.com/v/ifeng.php?id=1#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 建议耐心等,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 节目出来慢,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 要30秒,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
@@ -10,8 +10,8 @@
 
 
 新闻,#genre#
-凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-凤凰资讯,http://hdy168899.mhw183.cn/dl/fhx.php?id=1#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8#http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
+凤凰中文,https://player.ggiptv.com/v/ifeng.php?id=2#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+凤凰资讯,https://player.ggiptv.com/v/ifeng.php?id=1#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 東森新聞,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#mitv://fccsovh.pvbox.live:18912/5b1409520005add40bf29b36763a05a5.ts#mitv://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51.ts#mitv://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts
 Itv三立新闻,http://v3948069e.live.126.net/live/twslinews_MTYxNTAyNzMyNg.flv
 民視新聞台,mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts
@@ -47,9 +47,8 @@ ABC 7,P2p://51.79.41.138:18912/5b593907000a2a1ed36ebf154f6842a0
 
 最佳电视,#genre#
 探索亚洲,http://76.223.74.13:39554/小美QQ1332355592.php?id=306#mitv://147.135.39.171:9906/5ea13bb1000a50e9cb662c0c47e9549f.ts
-纪录片,http://112.17.40.147/PLTV/88888888/224/3221226360/1.m3u8
-大侦探,http://112.17.40.147/PLTV/88888888/224/3221226360/1.m3u8
-國家地理頻道,mitv://147.135.39.171:9906/5ea13fdf0004d36ecb767e555c896a66.ts
+探索頻道,rtmp://58.200.131.2:1935/livetv/discovery#mitv://147.135.39.171:9906/5ea13fde000ec14fcb767cee2fe05289.ts
+國家地理頻道,rtmp://58.200.131.2:1935/livetv/natlgeo#mitv://147.135.39.171:9906/5ea13fdf0004d36ecb767e555c896a66.ts
 國家地理頻道悠人,mitv://147.135.39.171:9906/5ea1441e000473decb87144e4b600a26.ts
 國家地理頻道野生,mitv://147.135.39.171:9906/5ea13fdf000c8069cb7680495d882a82.ts
 探索動力頻道,mitv://147.135.39.171:9906/5e9b4b11000d8f76b4323bd8404c1e97.ts
@@ -59,7 +58,7 @@ Discovery 科學頻道 HD,mitv://198.255.74.57:11196/5f4fc84000022230ec63ee3144b
 國家地理野生頻道 HD,mitv://198.255.74.57:11196/5f4fc83f000dfb04ec63ed518c070f49
 Discovery EVE HD,mitv://147.135.39.171:9906/5ea13fe100060397cb76867304774d14.ts
 探索頻道亞洲,mitv://147.135.39.171:9906/5ea13bb1000a50e9cb662c0c47e9549f.ts
-探索頻道,mitv://147.135.39.171:9906/5ea13fde000ec14fcb767cee2fe05289.ts
+
 探索科學頻道,mitv://147.135.39.171:9906/5ea13fe1000b88c3cb7687db43d01a4a.ts
 動物星球,mitv://147.135.39.171:9906/5ea13bb00003dd3ccb66267f33fc00d1.ts
 Discovery动力频道,p2p://lino.homeunix.com:6007/59fd2846000cb99902b1cffa3bb33abb.ts
