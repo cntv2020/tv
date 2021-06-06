@@ -2,7 +2,7 @@
 更新东森新闻,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#mitv://fccsovh.pvbox.live:18912/5b1409520005add40bf29b36763a05a5.ts#mitv://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51.ts#mitv://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts
 更新凤凰系列,https://player.ggiptv.com/v/ifeng.php?id=1#http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
 更新CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+更新WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 节目出来慢,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 要30秒,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 建议超时跳转,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
@@ -50,7 +50,6 @@ ABC 7,P2p://51.79.41.138:18912/5b593907000a2a1ed36ebf154f6842a0
 探索亚洲,http://76.223.74.13:39554/小美QQ1332355592.php?id=306#mitv://147.135.39.171:9906/5ea13bb1000a50e9cb662c0c47e9549f.ts
 探索頻道,rtmp://58.200.131.2:1935/livetv/discovery#mitv://147.135.39.171:9906/5ea13fde000ec14fcb767cee2fe05289.ts
 國家地理頻道,rtmp://58.200.131.2:1935/livetv/natlgeo#mitv://147.135.39.171:9906/5ea13fdf0004d36ecb767e555c896a66.ts
-阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 国家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8#http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 地理野生,http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
