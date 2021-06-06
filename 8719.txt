@@ -15,6 +15,7 @@
 東森新聞,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#mitv://fccsovh.pvbox.live:18912/5b1409520005add40bf29b36763a05a5.ts#mitv://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51.ts#mitv://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts
 Itv三立新闻,http://v3948069e.live.126.net/live/twslinews_MTYxNTAyNzMyNg.flv
 民視新聞台,mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts
+TVBS新闻,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 TVBS新闻,http://9186663.mhw183.cn/yqkkopt.php?id=077d589ce8e22da27925d6f8a71c7f959aeec539&IJK=d41qr487er12311123rd&tid=live#mitv://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2.ts
 寰宇新聞台,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
 非凡新聞,mitv://147.135.39.171:9906/5e5a0a88000184ac3b49713b638b501b.ts
@@ -49,6 +50,11 @@ ABC 7,P2p://51.79.41.138:18912/5b593907000a2a1ed36ebf154f6842a0
 探索亚洲,http://76.223.74.13:39554/小美QQ1332355592.php?id=306#mitv://147.135.39.171:9906/5ea13bb1000a50e9cb662c0c47e9549f.ts
 探索頻道,rtmp://58.200.131.2:1935/livetv/discovery#mitv://147.135.39.171:9906/5ea13fde000ec14fcb767cee2fe05289.ts
 國家地理頻道,rtmp://58.200.131.2:1935/livetv/natlgeo#mitv://147.135.39.171:9906/5ea13fdf0004d36ecb767e555c896a66.ts
+阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+国家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8#http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+地理野生,http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
+地理悠人,http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 國家地理頻道悠人,mitv://147.135.39.171:9906/5ea1441e000473decb87144e4b600a26.ts
 國家地理頻道野生,mitv://147.135.39.171:9906/5ea13fdf000c8069cb7680495d882a82.ts
 探索動力頻道,mitv://147.135.39.171:9906/5e9b4b11000d8f76b4323bd8404c1e97.ts
@@ -191,10 +197,13 @@ HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
 
 
 上海本地,#genre#
-上海新闻,http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-上海新闻,http://mgsp.live.miguvideo.com:8088/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=202101291955039391d846add1407fbda58b690fd00e67&mdspid=&spid=699001&netType=4&sid=5500002275&pid=2028597139&timestamp=20210129195503&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=58.37.39.131&SecurityKey=20210129195503&mvid=&mcid=&mpid=&playurlVersion=SJ-A1-0.0.3&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=b45428bb7f4e70a89355677453caadaa
+上海新闻,http://183.207.255.190/live/program/live/xwzhhd/2300000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 第一财经,http://39.134.168.91/PLTV/1/224/3221225494/index.m3u8#http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8
 东方卫视,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+上海影视,http://39.134.39.38/PLTV/88888888/224/3221226189/index.m3u8#http://140.207.241.2:8080/live/program/live/dsjpdhd/2300000/mnf.m3u8#http://39.134.168.76/PLTV/1/224/3221225612/index.m3u8#http://183.207.255.190/live/program/live/dsjpdhd/4000000/mnf.m3u8
+上海纪实,http://39.135.33.12/PLTV/77777777/224/3221226727/index.m3u8#http://183.207.255.190/live/program/live/jspdhd/4000000/mnf.m3u8#http://183.207.248.71/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+上海外语,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8#http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226201/index.m3u8#http://183.207.255.190/live/program/live/wypdhd/2300000/mnf.m3u8#http://39.134.168.76/PLTV/1/224/3221225486/index.m3u8
+上海都市,http://183.207.255.190/live/program/live/ylpdhd/4000000/mnf.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226168/index.m3u8#http://140.207.241.2:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
 上海纪实,http://39.134.65.86:80/wh7f454c46tw1791807411_-1987553314/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8?icpid=88888888&RTS=1554599564&from=1&hms_devid=129
 上海纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 上海纪实,http://39.134.168.91/PLTV/1/224/3221225488/index.m3u8
