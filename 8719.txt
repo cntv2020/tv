@@ -108,7 +108,10 @@ TVBS新闻,http://9186663.mhw183.cn/yqkkopt.php?id=077d589ce8e22da27925d6f8a71c7
 CCTV-13新闻,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 CCTV-13新闻,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-13高清,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8#https://liveali.ifeng.com/live/CCTV.m3u8#http://140.249.30.41/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8#http://stream4.jlntv.cn/CCTV-13新闻/sd/live.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226159/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226159/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226339/1.m3u8
-BBC,mitv://147.135.39.171:9906/5e7cf263000230893da7883a211a41d0.ts
+BBC World News,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
+BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
+BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
+BBC lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 NBC,http://v3948069e.live.126.net/live/hwnbc_MTYxMTk4MjI2Ng.flv
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 ABC,http://v3948069e.live.126.net/live/hwabc_MTYxNTAzMjY2Nw.flv
