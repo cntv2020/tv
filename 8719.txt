@@ -285,7 +285,7 @@ HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
 
 上海本地,#genre#
 上海新闻,http://183.207.255.190/live/program/live/xwzhhd/2300000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-第一财经,http://39.134.168.91/PLTV/1/224/3221225494/index.m3u8#http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8
+第一财经HD,http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
 东方卫视,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 上海影视,http://39.134.39.38/PLTV/88888888/224/3221226189/index.m3u8#http://140.207.241.2:8080/live/program/live/dsjpdhd/2300000/mnf.m3u8#http://39.134.168.76/PLTV/1/224/3221225612/index.m3u8#http://183.207.255.190/live/program/live/dsjpdhd/4000000/mnf.m3u8
 上海纪实,http://39.135.33.12/PLTV/77777777/224/3221226727/index.m3u8#http://183.207.255.190/live/program/live/jspdhd/4000000/mnf.m3u8#http://183.207.248.71/cntv/live1/HD-8000k-1080P-shanghaijishi/HD-8000k-1080P-shanghaijishi#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
