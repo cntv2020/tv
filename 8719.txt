@@ -80,6 +80,8 @@ FS3LIVE,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 東森新聞,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#mitv://fccsovh.pvbox.live:18912/5b1409520005add40bf29b36763a05a5.ts#mitv://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51.ts#mitv://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts
 Itv三立新闻,http://v3948069e.live.126.net/live/twslinews_MTYxNTAyNzMyNg.flv
 民視新聞台,mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts
+TVBS新闻,rtmp://59.124.75.153/sat/tv551
+TVBS新闻,rtmp://59.124.75.153:1935/sat/tv551
 TVBS新闻,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
 TVBS新闻,http://9186663.mhw183.cn/yqkkopt.php?id=077d589ce8e22da27925d6f8a71c7f959aeec539&IJK=d41qr487er12311123rd&tid=live#mitv://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2.ts
 寰宇新聞台,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
