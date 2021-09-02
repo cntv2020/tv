@@ -45,35 +45,37 @@ http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 ,CCTV 1
 http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 #EXTINF:-1 ,CCTV 2
-http://121.31.30.91:8081/ysten-business/live/cctv-2/1.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
 #EXTINF:-1 ,CCTV 3
 http://121.31.30.91:8081/ysten-business/live/cctv-3/1.m3u8
 #EXTINF:-1 ,CCTV 4
-http://121.31.30.91:8081/ysten-business/live/cctv-4/1.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
 #EXTINF:-1 ,CCTV 5
-http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
 #EXTINF:-1 ,CCTV 5+
 http://121.31.30.91:8081/ysten-business/live/hdcctv05plus/1.m3u8
 #EXTINF:-1 ,CCTV 6
 http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8
 #EXTINF:-1 ,CCTV 7
-http://121.31.30.91:8081/ysten-business/live/cctv-7/1.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
 #EXTINF:-1 ,CCTV 8
 http://121.31.30.91:8081/ysten-business/live/cctv-8/1.m3u8
 #EXTINF:-1 ,CCTV 9
 http://121.31.30.91:8081/ysten-business/live/cctv-news/1.m3u8
 #EXTINF:-1 ,CCTV 10
-http://121.31.30.91:8081/ysten-business/live/cctv-10/1.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
 #EXTINF:-1 ,CCTV 11
 http://121.31.30.91:8081/ysten-business/live/cctv-11/1.m3u8
 #EXTINF:-1 ,CCTV 12
-http://121.31.30.91:8081/ysten-business/live/cctv-12/1.m3u8
+http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
 #EXTINF:-1 ,CCTV 13
 http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 #EXTINF:-1 ,CCTV 14
 http://121.31.30.91:8081/ysten-business/live/cctv-14/1.m3u8
 #EXTINF:-1 ,CCTV 15
 http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
+#EXTINF:-1 ,CCTV 17
+http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
 #EXTINF:-1 ,CGTN记录
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 ,广州新闻
