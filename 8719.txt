@@ -9,6 +9,7 @@
 设为30秒,http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://120.204.20.72/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 
 奥运©体育,#genre#
+CCTV-5体育,http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
 CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
