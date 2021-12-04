@@ -1,5 +1,5 @@
-更新0902,#genre#
-更新TVBS,rtmp://59.124.75.153/sat/tv551
+更新1205,#genre#
+更新东森,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
 更新凤凰系列,http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
 更新CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 更新BBC,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
@@ -29,6 +29,12 @@
 凤凰资讯,http://223.82.250.72/live/fhzixun/1.m3u8
 凤凰资讯,http://zb.ios.ifeng.com/live/05QGCOB3T34/index.m3u8
 凤凰资讯,http://zb.ios.ifeng.com:80/live/05QGCOB3T34/index.m3u8
+年代新聞,mitv://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
+東森新聞台,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
+中天新聞台,mitv://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
+民視新聞台,mitv://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
+三立新聞台,mitv://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
+TVBS新聞台,mitv://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
 東森新聞,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#mitv://fccsovh.pvbox.live:18912/5b1409520005add40bf29b36763a05a5.ts#mitv://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51.ts#mitv://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts
 Itv三立新闻,http://v3948069e.live.126.net/live/twslinews_MTYxNTAyNzMyNg.flv
 民視新聞台,mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts
@@ -69,11 +75,12 @@ ABC 7,P2p://51.79.41.138:18912/5b593907000a2a1ed36ebf154f6842a0
 非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 
 最佳电视,#genre#
-探索亚洲,http://76.223.74.13:39554/小美QQ1332355592.php?id=306#mitv://147.135.39.171:9906/5ea13bb1000a50e9cb662c0c47e9549f.ts
+探索亚洲,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
+国家地理,mitv://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
+探索频道,mitv://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
 探索頻道,rtmp://58.200.131.2:1935/livetv/discovery#mitv://147.135.39.171:9906/5ea13fde000ec14fcb767cee2fe05289.ts
 國家地理頻道,rtmp://58.200.131.2:1935/livetv/natlgeo#mitv://147.135.39.171:9906/5ea13fdf0004d36ecb767e555c896a66.ts
 WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-国家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8#http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 地理野生,http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 地理悠人,http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 國家地理頻道悠人,mitv://147.135.39.171:9906/5ea1441e000473decb87144e4b600a26.ts
@@ -117,7 +124,9 @@ BBC Cbeebies,mitv://147.135.39.171:9906/5dea93910008156c5a02c21b24cc6be4.ts
 
 
 HBO电影类,#genre#
-HBO1,p9p://192.95.32.107:9906/5a7f5d8b0006c8863d2d1a0954875116&link=盗链死全家
+HBO,mitv://ns2.hellotvvod.com:9906/dd98f44a969642fd9887c0f14c027977,mitv://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d
+HBO强档巨献,mitv://ns2.hellotvvod.com:9906/670c07900c5c4e49b6df5306bc18bff0
+HBO原创巨献,mitv://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314HBO1,p9p://192.95.32.107:9906/5a7f5d8b0006c8863d2d1a0954875116&link=盗链死全家
 HBO2,p9p://192.95.32.107:9906/5a7f5df90002ac273d2ec6ad45e61251&link=盗链死全家
 HBO3,p9p://192.95.32.107:9906/5a7f5e14000964a73d2f31dd21593dab&link=盗链死全家
 HBO亞洲電影,vjms://58.215.133.189:8500:3502/live/cid=261
