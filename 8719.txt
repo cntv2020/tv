@@ -1,8 +1,8 @@
 更新1205,#genre#
 更新东森,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
 更新凤凰系列,http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
-更新CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-更新BBC,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
+更新CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
+FOX NEWS,mitv://198.255.74.57:11196/5f4fc8450005253dec64027e4c1317ad
 节目出来慢,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 要30秒,http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
 建议超时跳转,http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
