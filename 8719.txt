@@ -222,7 +222,7 @@ HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
 
 
 上海本地,#genre#
-上海新闻,http://iptv.tvfix.org/hls/shdspdhd.m3u8#http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+上海新闻,http://iptv.tvfix.org/hls/shxwzhhd.m3u8#http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 第一财经HD,http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
 东方卫视,http://111.12.101.23:6610/PLTV/77777777/224/3221225682/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 东方卫视,http://111.12.101.23:6610/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1&IASHttpSessionId=OTT
