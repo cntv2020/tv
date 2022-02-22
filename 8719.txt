@@ -1,10 +1,9 @@
 更新0222,#genre#
-更新东森,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
 更新凤凰系列,http://iptv.tvfix.org/hls/fhzx.m3u8
 更新CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
 FOX NEWS,mitv://198.255.74.57:11196/5f4fc8450005253dec64027e4c1317ad
-节目出来慢@13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
-要30秒@2,http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
+节目出来慢@13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8#http://iptv.tvfix.org/hls/cctv13hd.m3u8
+要30秒@2,http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8#http://iptv.tvfix.org/hls/cctv2hd.m3u8
 建议超时跳转@4,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
 设为30秒@E,http://111.12.101.23:6610/PLTV/77777777/224/3221225682/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 
@@ -31,7 +30,7 @@ TVBS新闻,http://9186663.mhw183.cn/yqkkopt.php?id=077d589ce8e22da27925d6f8a71c7
 寰宇新聞台,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
 非凡新聞,mitv://147.135.39.171:9906/5e5a0a88000184ac3b49713b638b501b.ts
 东森财经新闻,http://76.223.74.13:39554/小美QQ1332355592.php?id=12
-CCTV13-新闻频道,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV13-新闻频道,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8#http://iptv.tvfix.org/hls/cctv13hd.m3u8
 CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/d5f2b5f728a04933acfbfc0f63d6800f
 CGTN,mitv://ns2.hellotvvod.com:9906/a837b60759a749d3a04991d3fbfadde3
 CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
@@ -223,7 +222,7 @@ HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
 
 
 上海本地,#genre#
-上海新闻,http://183.207.255.190/live/program/live/xwzhhd/2300000/mnf.m3u8#http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+上海新闻,http://iptv.tvfix.org/hls/shdspdhd.m3u8#http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
 第一财经HD,http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
 东方卫视,http://111.12.101.23:6610/PLTV/77777777/224/3221225682/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 东方卫视,http://111.12.101.23:6610/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -243,7 +242,7 @@ HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
 东方卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225659/index.m3u8
 东方财经,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dfcj/1300000/mnf.m3u8
 上海外语,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8#http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226201/index.m3u8#http://183.207.255.190/live/program/live/wypdhd/2300000/mnf.m3u8#http://39.134.168.76/PLTV/1/224/3221225486/index.m3u8
-上海都市,http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8
+上海都市,http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8#http://iptv.tvfix.org/hls/shdspdhd.m3u8
 上海纪实,http://117.148.179.168/PLTV/88888888/224/3221231612/index.m3u8
 上海纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225654/index.m3u8
 东方财经,http://w1.livecdn.yicai.com/hls/live/dftv_sd/live.m3u8
