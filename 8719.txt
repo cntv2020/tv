@@ -1,16 +1,20 @@
 更新0222,#genre#
 更新东森,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
-更新凤凰系列,http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
+更新凤凰系列,http://iptv.tvfix.org/hls/fhzx.m3u8
 更新CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
 FOX NEWS,mitv://198.255.74.57:11196/5f4fc8450005253dec64027e4c1317ad
-节目出来慢,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
-要30秒,http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
-建议超时跳转,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
-设为30秒,http://111.12.101.23:6610/PLTV/77777777/224/3221225682/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+节目出来慢@13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+要30秒@2,http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
+建议超时跳转@4,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
+设为30秒@E,http://111.12.101.23:6610/PLTV/77777777/224/3221225682/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 
 新闻,#genre#
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
+凤凰中文,http://59.44.10.116:9901/tsfile/live/1022_1.m3u8
+凤凰中文,http://59.44.10.113:9901/tsfile/live/1079_1.m3u8
 凤凰资讯,http://iptv.tvfix.org/hls/fhzx.m3u8
+凤凰资讯,http://59.44.10.116:9901/tsfile/live/1021_1.m3u8
+凤凰资讯,http://59.44.10.113:9901/tsfile/live/1078_1.m3u8
 年代新聞,mitv://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
 東森新聞台,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
 中天新聞台,mitv://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
@@ -564,6 +568,7 @@ BTV财经-高清,http://v.mp.haue.edu.cn/hls/btv5hd.m3u8
 
 
 奥运©体育,#genre#
+Star Sports,http://iptv.tvfix.org/hls/starsports.m3u8
 CCTV-5体育,http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
 CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
