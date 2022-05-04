@@ -5,7 +5,7 @@ FOX NEWS,mitv://198.255.74.57:11196/5f4fc8450005253dec64027e4c1317ad
 节目出来慢@13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 要30秒@2,http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8#http://iptv.tvfix.org/hls/cctv2hd.m3u8
 建议超时跳转@4,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
-设为30秒@E,http://111.12.101.23:6610/PLTV/77777777/224/3221225682/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+设为30秒@E,http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8
 
 新闻,#genre#
 凤凰中文,http://iptv.tvfix.org/hls/fhzw.m3u8
@@ -20,7 +20,7 @@ FOX NEWS,mitv://198.255.74.57:11196/5f4fc8450005253dec64027e4c1317ad
 民視新聞台,mitv://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
 三立新聞台,mitv://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
 TVBS新聞台,mitv://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
-東森新聞,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#mitv://fccsovh.pvbox.live:18912/5b1409520005add40bf29b36763a05a5.ts#mitv://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51.ts#mitv://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts
+東森新闻,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#mitv://fccsovh.pvbox.live:18912/5b1409520005add40bf29b36763a05a5.ts#mitv://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51.ts#mitv://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts
 Itv三立新闻,http://v3948069e.live.126.net/live/twslinews_MTYxNTAyNzMyNg.flv
 民視新聞台,mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts
 TVBS新闻,rtmp://59.124.75.153/sat/tv551
