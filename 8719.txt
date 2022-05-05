@@ -4,6 +4,7 @@
 FOX NEWS,mitv://198.255.74.57:11196/5f4fc8450005253dec64027e4c1317ad
 节目出来慢@13,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 建议超时跳转@4,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
+设为30@2,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8#http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
 设为30秒@E,http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8
 
 新闻,#genre#
@@ -14,14 +15,10 @@ FOX NEWS,mitv://198.255.74.57:11196/5f4fc8450005253dec64027e4c1317ad
 中天新聞台,mitv://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
 民視新聞台,mitv://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
 三立新聞台,mitv://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
-TVBS新聞台,mitv://ns2.hellotvvod.com:9906/4c700aa999594ea5893d7eab1519f187
 東森新闻,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#mitv://fccsovh.pvbox.live:18912/5b1409520005add40bf29b36763a05a5.ts#mitv://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51.ts#mitv://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts
 Itv三立新闻,http://v3948069e.live.126.net/live/twslinews_MTYxNTAyNzMyNg.flv
 民視新聞台,mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts
-TVBS新闻,rtmp://59.124.75.153/sat/tv551
-TVBS新闻,rtmp://59.124.75.153:1935/sat/tv551
-TVBS新闻,p8p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
-TVBS新闻,http://9186663.mhw183.cn/yqkkopt.php?id=077d589ce8e22da27925d6f8a71c7f959aeec539&IJK=d41qr487er12311123rd&tid=live#mitv://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2.ts
+TVBS新闻台,rtmp://59.124.75.150/sat/tv551
 寰宇新聞台,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
 非凡新聞,mitv://147.135.39.171:9906/5e5a0a88000184ac3b49713b638b501b.ts
 东森财经新闻,http://76.223.74.13:39554/小美QQ1332355592.php?id=12
