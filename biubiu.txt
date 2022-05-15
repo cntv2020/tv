@@ -1,3 +1,16 @@
+//→→→
+//BiuBiu播放器专用(biubiu3.1.8版全局接口→2022.4.28)
+//→→→
+//自用地址:→https://cntv2020.github.io/tv/biubiu.txt
+//备用地址:→https://gitee.com/king1161/TV_biubiu/raw/main/biubiu全局接口.txt
+//直播源(自维护): →
+//→→→
+//→→→→→→→→感谢作者免费提供了这么好用的软件←←←←←←←←←←←←←
+//→→→
+//原地址(3.1.8全局接口):→http://118.190.244.195/gengduoziyuansouweixingongzhonghaobktx123/biubiu/biubiu317.txt
+//直播源:→http://118.190.244.195/gengduoziyuansouweixingongzhonghaobktx123/biubiu/20220421yuan.txt
+//→→→
+//★→ 1.←主页接口 ←★
 {"zhuyejiekou": [
 {"name":"360红豆源","url":"https://www.kan365.xyz/api.php/app/"},
 {"name":"爱西西","url":"https://myaixixi.com/xgapp.php/v1/"},
