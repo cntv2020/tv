@@ -16,6 +16,8 @@ BBC复活,mitv://ns2.hellotvvod.com:9906/ef973c261dba4d57a78c1fdda5438f9f.ts
 
 東森新聞台,mitv://ns2.hellotvvod.com:9906/0fe69ec2865c4f4ca559f100318dd982.ts
 
+東森新聞台(備),mitv://ns2.hellotvvod.com:9906/7c545012cea54fdd8acae0c24555f9bf.ts
+
 中天新聞台,mitv://ns2.hellotvvod.com:9906/e95839a4221f4f5aa977848cb54bbf47.ts
 
 CNN,mitv://ns2.hellotvvod.com:9906/d84ff27c6ab84dad9b0d8318d3ff3cf3.ts
