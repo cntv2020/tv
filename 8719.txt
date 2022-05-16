@@ -19,14 +19,14 @@ BBC World News,mitv://ns2.hellotvvod.com:9906/ef973c261dba4d57a78c1fdda5438f9f.t
 
 
 最佳电视,#genre#
-Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
+探索頻道,mitv://ns2.hellotvvod.com:9906/b47f471f1b84411e97ecc2dc7df650b4.ts
+爱探索,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
 
 HBO电影类,#genre#
-HBO,mitv://ns2.hellotvvod.com:9906/dd98f44a969642fd9887c0f14c027977,mitv://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d
-HBO强档巨献,mitv://ns2.hellotvvod.com:9906/670c07900c5c4e49b6df5306bc18bff0
-HBO原创巨献,mitv://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314HBO1,p9p://192.95.32.107:9906/5a7f5d8b0006c8863d2d1a0954875116&link=盗链死全家
-HBO2,p9p://192.95.32.107:9906/5a7f5df90002ac273d2ec6ad45e61251&link=盗链死全家
-HBO3,p9p://192.95.32.107:9906/5a7f5e14000964a73d2f31dd21593dab&link=盗链死全家
+HBO,mitv://ns2.hellotvvod.com:9906/c38db0c52a2b457e878d665d68c8db6d.ts
+HBO強檔鉅獻,mitv://ns2.hellotvvod.com:9906/f5fea9ea86f04fd4aa123409fd00cfb2.ts
+HBO原創鉅獻,mitv://ns2.hellotvvod.com:9906/55a7de2974854e9fa40dd475856b1ffc.ts
+HBO Family,mitv://ns2.hellotvvod.com:9906/af9ae1d8492442c097471391b5fec198.ts
 
 上海本地,#genre#
 新闻综合,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
