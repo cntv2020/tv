@@ -1,5 +1,7 @@
 更新0516,#genre#
 更新凤凰系列,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+CNN复活,mitv://ns2.hellotvvod.com:9906/d84ff27c6ab84dad9b0d8318d3ff3cf3.ts
+BBC复活,mitv://ns2.hellotvvod.com:9906/ef973c261dba4d57a78c1fdda5438f9f.ts
 节目出来慢@13,http://183.207.249.36/PLTV/4/224/3221227387/index.m3u8#http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 建议超时跳转@4,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8#http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8#http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
 设为30秒@2,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
@@ -7,7 +9,13 @@
 
 新闻,#genre#
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,http://39.135.49.209:6610/PLTV/88888888/224/3221227222/1.m3u8?servicetype=1
+
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+
+CNN,mitv://ns2.hellotvvod.com:9906/d84ff27c6ab84dad9b0d8318d3ff3cf3.ts
+
+BBC World News,mitv://ns2.hellotvvod.com:9906/ef973c261dba4d57a78c1fdda5438f9f.ts
 
 
 最佳电视,#genre#
@@ -86,7 +94,20 @@ HBO3,p9p://192.95.32.107:9906/5a7f5e14000964a73d2f31dd21593dab&link=盗链死全
 上海教育,https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8
 上海教育,http://183.207.255.188/live/program/live/setv/1300000/mnf.m3u8
 
+北京本地,#genre#
 
+北京新闻,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time
+北京财经,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=
+北京衛視,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+北京纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
+北京卫视,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=
+北京文艺,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=
+北京科教,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=
+北京影视,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=
+北京冬奥,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8?time=
+北京生活,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=
+北京青年,http://111.6.126.218/hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8?time=
+北京通州,http://pull.dayuntongzhou.com/live/tztv.m3u8
 
 
 央视,#genre#
