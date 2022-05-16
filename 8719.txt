@@ -1,114 +1,17 @@
-更新0505,#genre#
+更新0516,#genre#
 更新凤凰系列,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-更新CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
-FOX NEWS,mitv://198.255.74.57:11196/5f4fc8450005253dec64027e4c1317ad
-节目出来慢@13,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-建议超时跳转@4,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
-设为30@2,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8#http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
+节目出来慢@13,http://183.207.249.36/PLTV/4/224/3221227387/index.m3u8#http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+建议超时跳转@4,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8#http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8#http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
+设为30秒@2,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
 设为30秒@E,http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8
 
 新闻,#genre#
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-年代新聞,mitv://ns2.hellotvvod.com:9906/a412a974b1c24427ba506b9fcd95d77b
-東森新聞台,mitv://ns2.hellotvvod.com:9906/d98879e5737d4c44b3dd85bc349775e0
-中天新聞台,mitv://ns2.hellotvvod.com:9906/f2b61bbfc05e47f8916dcd2513b3a0f5
-民視新聞台,mitv://ns2.hellotvvod.com:9906/f2f4daa81a39490396bc2eea99fd9fd9
-三立新聞台,mitv://ns2.hellotvvod.com:9906/3fc8adf766954da4bc9908ecb81184bc
-東森新闻,mitv://fccsovh.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts#mitv://fccsovh.pvbox.live:18912/5b1409520005add40bf29b36763a05a5.ts#mitv://fccseuro.pvbox.live:18912/5c7248a0000383701d5337cb153b4b51.ts#mitv://fccseuro.pvbox.live:18912/5c2dd7310008b3195b1f53317f5456e2.ts
-Itv三立新闻,http://v3948069e.live.126.net/live/twslinews_MTYxNTAyNzMyNg.flv
-民視新聞台,mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts
-TVBS新闻台,rtmp://59.124.75.150/sat/tv551
-寰宇新聞台,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
-非凡新聞,mitv://147.135.39.171:9906/5e5a0a88000184ac3b49713b638b501b.ts
-东森财经新闻,http://76.223.74.13:39554/小美QQ1332355592.php?id=12
-CCTV13-新闻频道,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8#http://iptv.tvfix.org/hls/cctv13hd.m3u8
-CNBC Awaaz,mitv://ns2.hellotvvod.com:9906/d5f2b5f728a04933acfbfc0f63d6800f
-CGTN,mitv://ns2.hellotvvod.com:9906/a837b60759a749d3a04991d3fbfadde3
-CNN,mitv://ns2.hellotvvod.com:9906/608965b9eef84266946ad5598a892db9
-BBC World News,mitv://ns2.hellotvvod.com:9906/a1e038f1cfd74f758f916dc7e17572b5
-Al Jazeera English,mitv://ns2.hellotvvod.com:9906/f24308be3336455bb0f20ddcd641d725
-Sky News,mitv://ns2.hellotvvod.com:9906/9abf41880e9b4ac9a94ea8124203799a
-CNBC,mitv://ns2.hellotvvod.com:9906/52303054ad214adda0129d322912164d
-Bloomberg TV,mitv://ns2.hellotvvod.com:9906/3e4c9ed6b58342fbaa531f02aa120a58
-ABC Australia,mitv://ns2.hellotvvod.com:9906/f7003b714f114b3f8a91d6babf1f9ae2
-Fox News,mitv://ns2.hellotvvod.com:9906/710fa57697834a6aba081190b8aba7d3
-CBSN,mitv://ns2.hellotvvod.com:9906/8f9c3d1103124dd480b00bb645409cdc
-BBC World News,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
-BBC 2,http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
-BBC 1,http://93.190.139.35:8278/streams/d/bbc1_antik/playlist.m3u8
-BBC lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-NBC,http://v3948069e.live.126.net/live/hwnbc_MTYxMTk4MjI2Ng.flv
-CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-ABC,http://v3948069e.live.126.net/live/hwabc_MTYxNTAzMjY2Nw.flv
-RT News,http://76.223.74.13:39554/小美QQ1332355592.php?id=1025
-FOX NEWS,mitv://198.255.74.57:11196/5f4fc8450005253dec64027e4c1317ad
-foxbnews,tvbus://3ifEUyvkSmeiGaUDk7czat8zznAczSXQWTeHizsyS3wCekTE3L
-阿拉伯半岛,http://76.223.74.13:39554/小美QQ1332355592.php?id=1144
-CNBC,mitv://fccsovh.pvbox.live:18912/5b1409400000e91c05aa5f02517e6c88.ts#mitv://fccseuro.pvbox.live:18912/5b1409400000e91c05aa5f02517e6c88.ts
-DW-TV,http://76.223.74.13:39554/小美QQ1332355592.php?id=1059
-CBS,p8p://174.128.239.250:16871/5d1a696e0008b29f11bccd0ba35fcc88.ts
-ABC 7,P2p://51.79.41.138:18912/5b593907000a2a1ed36ebf154f6842a0
-凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
-澳门有线CH1,http://202.175.127.77/live/show/ch2/index.m3u8
-澳门有线CH2,http://202.175.127.77/live/show/ch1/index.m3u8
-澳门有线CH3,http://202.175.127.77/live/show/ch3/index.m3u8
-年代新聞,p8p://0198.02686.cc:16871/5d1a69bb000e0fd711bdfb32923ec02b.ts
 
-中天新聞,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
-民視新聞,p8p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
-東森財經新聞,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
-非凡新聞,p8p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
 
 最佳电视,#genre#
 Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
-探索亚洲,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
-国家地理,mitv://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
-探索频道,mitv://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
-探索頻道,rtmp://58.200.131.2:1935/livetv/discovery#mitv://147.135.39.171:9906/5ea13fde000ec14fcb767cee2fe05289.ts
-國家地理頻道,rtmp://58.200.131.2:1935/livetv/natlgeo#mitv://147.135.39.171:9906/5ea13fdf0004d36ecb767e555c896a66.ts
-WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-地理野生,http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
-地理悠人,http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
-國家地理頻道悠人,mitv://147.135.39.171:9906/5ea1441e000473decb87144e4b600a26.ts
-國家地理頻道野生,mitv://147.135.39.171:9906/5ea13fdf000c8069cb7680495d882a82.ts
-探索動力頻道,mitv://147.135.39.171:9906/5e9b4b11000d8f76b4323bd8404c1e97.ts
-Discovery 動力頻道 HD,mitv://198.255.74.57:11196/5f4fc8400002f8e0ec63ee68e69ef308
-Discovery 科學頻道 HD,mitv://198.255.74.57:11196/5f4fc84000022230ec63ee3144b65816
-國家地理People HD,mitv://198.255.74.57:11196/5f4fc83f000ed824ec63ed8a824d0417
-國家地理野生頻道 HD,mitv://198.255.74.57:11196/5f4fc83f000dfb04ec63ed518c070f49
-Discovery EVE HD,mitv://147.135.39.171:9906/5ea13fe100060397cb76867304774d14.ts
-探索頻道亞洲,mitv://147.135.39.171:9906/5ea13bb1000a50e9cb662c0c47e9549f.ts
-
-探索科學頻道,mitv://147.135.39.171:9906/5ea13fe1000b88c3cb7687db43d01a4a.ts
-動物星球,mitv://147.135.39.171:9906/5ea13bb00003dd3ccb66267f33fc00d1.ts
-Discovery动力频道,p2p://lino.homeunix.com:6007/59fd2846000cb99902b1cffa3bb33abb.ts
-Ci罪案侦缉 HD,p2p://lino.homeunix.com:6007/59fd2824000df04802b14b7973731f54.ts
-Discovery EVE,p2p://lino.homeunix.com:6007/59fd286b000e1cdb02b260d1385f3d28.ts
-History HD,p2p://lino.homeunix.com:6007/59fd16f900060059026e396d395f3348.ts
-History2 HD,p2p://lino.homeunix.com:6007/59fd2b7900012c9002be4c3577197bb9.ts
-BBC earth 地球频道 HD,p2p://lino.homeunix.com:6007/59fd3223000ee20302d857cf1a981663.ts
-BBC生活频道,p2p://lino.homeunix.com:6007/59fd320000071ba102d7cd137e585878.ts
-E! Entertainment,p2p://lino.homeunix.com:6007/59fd29f4000d9cec02b85fd97aba3e4f.ts
-EYETV旅游 HD,p2p://lino.homeunix.com:6007/59fd27c4000cb3b102afd41b5cc4003d.ts
-OUTDOOR HD,p2p://lino.homeunix.com:6007/59fd15a600029d6902690c5b552d077d.ts
-国家地理野生,vjms://58.215.133.189:8500:3502/live/cid=263#p2p://lino.homeunix.com:6007/59fd082b000c6ca7023466633fed4c93.ts#P2p://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts#vjms://58.215.133.185:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=263#vjms://23.237.33.155:8500:3502/live/cid=396
-动物星球,vjms://58.215.133.185:8500:3502/live/cid=3#http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-TLC旅游生活,vjms://58.215.133.185:8500:3502/live/cid=103#vjms://23.237.33.155:8500:3502/live/cid=103
-SMART,p8p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
-亚洲旅游台,P2p://190.2.146.92:18912/5c724854000188081d520e6e279b2446.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
-StarWorld,p8p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
-BBC Earth,http://fang.fhzyy.com/live/260087c6636049bbbc187027547c905d.flv
-求索科学 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
-求索记录 FHD(杭州移动),http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
-NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-EYETV旅游 HD,p2p://lino.homeunix.com:6007/59fd27c4000cb3b102afd41b5cc4003d.ts
-亚洲旅游台 HD,p2p://lino.homeunix.com:6007/59fd0809000909e90233e0b820d34ea5.ts#p8p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
-FX,p8p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
-BBC Cbeebies,mitv://147.135.39.171:9906/5dea93910008156c5a02c21b24cc6be4.ts
-
-
-
 
 HBO电影类,#genre#
 HBO,mitv://ns2.hellotvvod.com:9906/dd98f44a969642fd9887c0f14c027977,mitv://ns2.hellotvvod.com:9906/8e83048c82a8449a93265fa063baa48d
@@ -116,107 +19,11 @@ HBO强档巨献,mitv://ns2.hellotvvod.com:9906/670c07900c5c4e49b6df5306bc18bff0
 HBO原创巨献,mitv://ns2.hellotvvod.com:9906/9b18147e7f454392b7eb1d204235b314HBO1,p9p://192.95.32.107:9906/5a7f5d8b0006c8863d2d1a0954875116&link=盗链死全家
 HBO2,p9p://192.95.32.107:9906/5a7f5df90002ac273d2ec6ad45e61251&link=盗链死全家
 HBO3,p9p://192.95.32.107:9906/5a7f5e14000964a73d2f31dd21593dab&link=盗链死全家
-HBO亞洲電影,vjms://58.215.133.189:8500:3502/live/cid=261
-福斯動作電影,mitv://147.135.39.171:9906/5ea13fe100005a81cb7684fc6e2766c4.ts
-福斯優質影院,mitv://147.135.39.171:9906/5ea13bb0000c242fcb66289275e41d0b.ts
-福斯家庭影院,mitv://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
-福斯犯罪影院,mitv://147.135.39.171:9906/5ea13bb10001df6fcb6629da1a076a80.ts
-HBO HD,mitv://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
-HBO Signat,mitv://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts
-HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
-好莱坞电影,http://104.250.154.42:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8#http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-星影,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
-凤凰电影台,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8#P2p://51.79.41.138:18912/5c7249d3000cb8ea1d57e9650d7148b7
-東森洋片,http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8#http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-
-
-综合HD,#genre#
-高清电影HD1,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-高清电影HD2,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-高清电影HD3,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱悬疑HD,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱奇谈HD,http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱喜剧HD,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱经典HD,http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱动漫HD,http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱美食HD,http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱电竞HD,http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱解密HD,http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱都市HD,http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱幼教HD,http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱科幻HD,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱江湖HD,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱浪漫HD,http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱院线HD,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱玩具HD,http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱军武HD,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱时尚HD,http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱历史HD,http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-爱世界HD,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-战旗_66放映室,https://dlhls-cdn-mp.zhanqi.tv/zqlive/96881_CiPMo.m3u8
-战旗_港台经典,https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
-锐剑蓝光影视1台,http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8 
-锐剑蓝光影视2台,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8 
-锐剑蓝光影视3台,http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8 
-锐剑蓝光影视4台,http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8 
-锐剑蓝光影视5台,http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8 
-锐剑蓝光影视6台,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8 
-锐剑蓝光影视7台,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8 
-锐剑蓝光影视8台,http://stream.guihet.com/migu/index.php?id=625542369 
-锐剑蓝光动画9台,http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8 
-锐剑蓝光动画10台,http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8 
-锐剑蓝光动漫11台,http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
-歐美影院,http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-亞洲影院,http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-大陆高清电影,https://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
-欧美高清电影5,https://aldirect.rtmp.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-欧美高清电影9,https://aldirect.rtmp.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
-欧美高清电影10,https://aldirect.rtmp.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-欧美高清电影19,https://aldirect.rtmp.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200.m3u8
-黑帮电影,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_heibangdianying_1080p_t10/c16_lb_heibangdianying_1080p_t10.m3u8
-电影大片,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
-热播电视剧,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_reboju_1080p_t10/c15_lb_reboju_1080p_t10.m3u8
-家庭剧场,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_jiatingjuchang_1080p_t10/c15_lb_jiatingjuchang_1080p_t10.m3u8
-宫廷正剧,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_niandaijuchang_1080p_t10/c15_lb_niandaijuchang_1080p_t10.m3u8
-经典重温,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb_jingdianjuchang_1080p_t10.m3u8
-收视冠军,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_dajuchongwen_1080p_t10/c15_lb_dajuchongwen_1080p_t10.m3u8
-湖南卫视,http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_songzhongji_1080p_t10/c20_lb_songzhongji_1080p_t10.m3u8
-东方卫视,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_jiayouernv_1080p_t10/c16_lb_jiayouernv_1080p_t10.m3u8
-名侦探柯南,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
-喜剧大咖,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_xijudaka_1080p_t10/c15_lb_xijudaka_1080p_t10.m3u8
-相声小品,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiangshengxiaopin_1080p_t10/c15_lb_xiangshengxiaopin_1080p_t10.m3u8
-动作电影,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_dongzuodianying_1080p_t10/c16_lb_dongzuodianying_1080p_t10.m3u8
-经典港片,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
-大头儿子,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_datouerzi_1080p_t10/c16_lb_datouerzi_1080p_t10.m3u8
-喜羊羊,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8
-哆啦A梦,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_duolaameng_1080p_t10/c15_lb_duolaameng_1080p_t10.m3u8
-抗战剧场,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_kangzhanjuchang_1080p_t10/c15_lb_kangzhanjuchang_1080p_t10.m3u8
-儿歌大全,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_ergedaquan_1080p_t10/c15_lb_ergedaquan_1080p_t10.m3u8
-神探狄仁杰,baiducdnct.inter.iqiyi.com/tslive/c16_lb_shentandirenjie_1080p_t10/c16_lb_shentandirenjie_1080p_t10.m3u8
-纪晓岚,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_jixiaolan_1080p_t10/c16_lb_jixiaolan_1080p_t10.m3u8
-人民的名义,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_renmindemingyi_1080p_t10/c16_lb_renmindemingyi_1080p_t10.m3u8
-小说改编,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiaoshuogaibian_1080p_t10/c15_lb_xiaoshuogaibian_1080p_t10.m3u8
-好莱坞大片,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
-老年剧场,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_laonianjuchang_1080p_t10/c15_lb_laonianjuchang_1080p_t10.m3u8
-怀旧剧场,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
-五星影院,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
-喜剧电影,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_xijudianying_1080p_t10/c16_lb_xijudianying_1080p_t10.m3u8
-周末影院,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
-情感调解,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_qinggantiaojie_1080p_t10/c15_lb_qinggantiaojie_1080p_t10.m3u8
-历史秘闻,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
-奇妙世界,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_qimiaoshijie_1080p_t10/c16_lb_qimiaoshijie_1080p_t10.m3u8
-科学探索,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_kexuetansuo_1080p_t10/c16_lb_kexuetansuo_1080p_t10.m3u8
-军事观察,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
-
-
 
 上海本地,#genre#
-上海新闻,http://iptv.tvfix.org/hls/shxwzhhd.m3u8#http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-第一财经HD,http://39.134.39.37/PLTV/88888888/224/3221226172/index.m3u8
-东方卫视,http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8
+新闻综合,http://140.207.241.3:8080/live/program/live/xwzhhd/2300000/d1.m3u8#新闻综合,http://111.40.196.36/PLTV/88888888/224/3221225499/index.m3u8#http://140.207.241.2:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+第一财经HD,http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8#http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
+东方卫视,http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8#http://111.40.196.35/PLTV/88888888/224/3221225509/index.m3u8?$移动高清720P#http://39.134.193.100:6610/030000001001/dongfangstv/1.m3u8?$移动超清1080P
 上海外语,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8#http://14.152.88.77/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8#http://39.134.39.38/PLTV/88888888/224/3221226201/index.m3u8#http://183.207.255.190/live/program/live/wypdhd/2300000/mnf.m3u8#http://39.134.168.76/PLTV/1/224/3221225486/index.m3u8
 上海都市,http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8#http://iptv.tvfix.org/hls/shdspdhd.m3u8
 上海纪实,http://117.148.179.168/PLTV/88888888/224/3221231612/index.m3u8
