@@ -26,18 +26,12 @@ FOXnews,mitv://ns2.hellotvvod.com:9906/6a2ccb6291b847efabdd53ad160438a1
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 最佳电视,#genre#
-Discovery Asia,mitv://ns2.hellotvvod.com:9906/c5007f859d8a484aa351d02aa8d2b30a.ts
-探索頻道,mitv://ns2.hellotvvod.com:9906/b47f471f1b84411e97ecc2dc7df650b4.ts
-國家地理頻道,mitv://ns2.hellotvvod.com:9906/b9ba2ecb059f422e9e95e409ebb30b1b.ts
+Discovery Asia,https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b2500000.m3u8
 爱探索,http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
 CCTV-世界地理,http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8
 
 HBO电影类,#genre#
-HBO,mitv://ns2.hellotvvod.com:9906/c38db0c52a2b457e878d665d68c8db6d.ts
-HBO強檔鉅獻,mitv://ns2.hellotvvod.com:9906/f5fea9ea86f04fd4aa123409fd00cfb2.ts
-HBO原創鉅獻,mitv://ns2.hellotvvod.com:9906/55a7de2974854e9fa40dd475856b1ffc.ts
-HBO Family,mitv://ns2.hellotvvod.com:9906/af9ae1d8492442c097471391b5fec198.ts
-HBO亚洲台,http://60.249.146.250:8580/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+HBO,mitv://ns2.hellotvvod.com:9906/17bdacb63fb6499b9fe1f5a4b0c927b2
 
 上海本地,#genre#
 新闻综合,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
