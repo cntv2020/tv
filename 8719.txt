@@ -1,7 +1,7 @@
 更新0731,#genre#
 更新凤凰系列,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 東森新聞复活,mitv://ns2.hellotvvod.com:9906/b5f8f7bf8ecd4fdc9cf16c8945796847
-CNN复活,mitv://ns2.hellotvvod.com:9906/d84ff27c6ab84dad9b0d8318d3ff3cf3.ts
+CNN复活,mitv://ns2.hellotvvod.com:9906/70bb587728714742ab29d8d5bc7a5f73
 BBC复活,mitv://ns2.hellotvvod.com:9906/ef973c261dba4d57a78c1fdda5438f9f.ts
 节目出来慢@13,http://183.207.249.36/PLTV/4/224/3221227387/index.m3u8#http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 建议超时跳转@4,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8#http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8#http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
@@ -19,7 +19,7 @@ BBC复活,mitv://ns2.hellotvvod.com:9906/ef973c261dba4d57a78c1fdda5438f9f.ts
 中天新聞台,mitv://ns2.hellotvvod.com:9906/e95839a4221f4f5aa977848cb54bbf47.ts
 中天新闻台,http://60.249.146.250:8595/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
 
-CNN,mitv://ns2.hellotvvod.com:9906/d84ff27c6ab84dad9b0d8318d3ff3cf3.ts
+CNN,mitv://ns2.hellotvvod.com:9906/70bb587728714742ab29d8d5bc7a5f73
 
 BBC World News,mitv://ns2.hellotvvod.com:9906/ef973c261dba4d57a78c1fdda5438f9f.ts
 
