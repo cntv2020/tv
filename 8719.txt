@@ -6,7 +6,7 @@ BBC复活,mitv://ns2.hellotvvod.com:9906/f9d4cca357c54df39909ec08dd6e033d
 节目出来慢@13,http://183.207.249.36/PLTV/4/224/3221227387/index.m3u8#http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 建议超时跳转@4,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8#http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8#http://183.207.249.6/PLTV/3/224/3221225534/index.m3u8
 设为30秒@2,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
-设为30秒@E,http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8
+设为30秒@E,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 
 新闻,#genre#
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
@@ -22,7 +22,8 @@ BBC复活,mitv://ns2.hellotvvod.com:9906/f9d4cca357c54df39909ec08dd6e033d
 CNN,mitv://ns2.hellotvvod.com:9906/70bb587728714742ab29d8d5bc7a5f73#http://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 BBC World News,mitv://ns2.hellotvvod.com:9906/f9d4cca357c54df39909ec08dd6e033d
 CNBC,http://59.125.122.90:18551/http/192.168.1.9:8081/hls/76/818/ch08.m3u8
-半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8#https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+FOXnews,mitv://ns2.hellotvvod.com:9906/6a2ccb6291b847efabdd53ad160438a1
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 最佳电视,#genre#
 Discovery Asia,mitv://ns2.hellotvvod.com:9906/c5007f859d8a484aa351d02aa8d2b30a.ts
@@ -48,7 +49,7 @@ HBO亚洲台,http://60.249.146.250:8580/http/60.251.39.91:8081/hls/71/813/ch41.m
 第一财经,http://112.25.48.70/live/program/live/dycjhd/4000000/mnf.m3u8
 第一财经,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=6617141658685778844&livemode=1&stbId=4
 
-东方卫视,http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8#http://111.40.196.35/PLTV/88888888/224/3221225509/index.m3u8?$移动高清720P#http://39.134.193.100:6610/030000001001/dongfangstv/1.m3u8?$移动超清1080P
+东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8#http://111.40.196.35/PLTV/88888888/224/3221225509/index.m3u8?$移动高清720P#http://39.134.193.100:6610/030000001001/dongfangstv/1.m3u8?$移动超清1080P
 东方卫视,http://39.134.66.110/PLTV/88888888/224/3221225672/index.m3u8
 东方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
 东方卫视,http://117.148.179.167/PLTV/88888888/224/3221231450/index.m3u8
